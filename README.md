@@ -38,7 +38,9 @@
 
 
 <img align="left" alt="Coding" width="400" height="535" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abbhiishek&show_icons=true&locale=en" alt="abbhiishek" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbhiishek&show_icons=true&locale=en&layout=compact" alt="abbhiishek" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abbhiishek&" alt="abbhiishek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbhiishek&show_icons=true&locale=en&layout=compact" alt="abbhiishek" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbhiishek&show_icons=true&locale=en" alt="abbhiishek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbhiishek&" alt="abbhiishek" /></p>
 
