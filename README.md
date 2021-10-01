@@ -37,7 +37,7 @@
 <br>
 
 
-<img align="left" alt="Coding" width="400" height="535" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbhiishek&show_icons=true&locale=en&layout=compact" alt="abbhiishek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbhiishek&show_icons=true&locale=en" alt="abbhiishek" /></p>
