@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="30px"> I'm Abhishek Kushwaha <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="30px"></h1>
+<h3 align="center">A passionate Developer from India <img src="https://c.tenor.com/2ZCVcnyaXEMAAAAj/india-flag.gif" width="30px"></h3>
 
 
 
@@ -36,10 +36,15 @@
 <br>
 <br>
 
+<div align="center">
+    <h2>Github Profile Stats 📊</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbhiishek&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact&hide_border=true" height="175px">
+    <img src="https://github-readme-stats.vercel.app/api?username=abbhiishek&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbhiishek&show_icons=true&hide_border=true&theme=dark" height="175px">
+    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=abbhiishek&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 
+</div>
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400"  height="280"src="https://c.tenor.com/yiaAYqLlJfoAAAAS/software-engineer-develop.gif">
 
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abbhiishek&show_icons=true&locale=en" alt="abbhiishek" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbhiishek&" alt="abbhiishek" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbhiishek&show_icons=true&locale=en&layout=compact" alt="abbhiishek" /></p>
