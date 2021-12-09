@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="30px"> I'm Abhishek Kushwaha <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="30px"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Founder+at+Code+For+Community;UG+at+JIS+UNIVERSITY;Discord+Bot+Developer;Fronted+Web+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=Founder+at+Code+For+Community;UG+at+JIS+UNIVERSITY;Discord+Bot+Developer;Fronted+Web+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
   </p>
 
 
