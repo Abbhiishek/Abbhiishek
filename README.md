@@ -7,15 +7,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-- 🔭 I’m currently working on [Senpai.io](https://github.com/Abbhiishek/senpai.io)
+- 🔭 I’m currently working on [API DEVELOPMENT](https://github.com/Abbhiishek/CFCApi/)
 
 - 🌱 I’m currently learning **DiscordJs , Javascript , Python , Java **
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abbhiishek](https://github.com/Abbhiishek)
+- 👨‍💻 All of my projects are available at [😎](https://github.com/Abbhiishek)
 
 - 💬 Ask me about **Discord.py , Html , Css**
 
-- 📫 How to reach me **abhishekkushwaha1479@gmail.com**
+- 📫 How to reach me **[📧](abhishekkushwaha1479@gmail.com)**
 
 - ⚡ Fun fact **My Code Sucks!**
 
