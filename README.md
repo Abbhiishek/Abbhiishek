@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [API DEVELOPMENT](https://github.com/Abbhiishek/CFCApi/)
 
-- 🌱 I’m currently learning **DiscordJs , Javascript , Python , Java **
+- 🌱 I’m currently learning **DiscordJs , Javascript , Python , Java**
 
 - 👨‍💻 All of my projects are available at [😎](https://github.com/Abbhiishek)
 
