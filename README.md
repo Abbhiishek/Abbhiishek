@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Senpai.io](https://github.com/Abbhiishek/senpai.io)
 
-- 🌱 I’m currently learning **DiscordJs , Javascript , Python ,**
+- 🌱 I’m currently learning **DiscordJs , Javascript , Python , Java **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abbhiishek](https://github.com/Abbhiishek)
 
