@@ -5,8 +5,8 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"> -->
+<img src="./Avatar.svg" width="300" align="right" alt="Coding">
 
 - I'm a computer science student and i like to build project which solves someones problem.😀
 
