@@ -1,22 +1,21 @@
-<h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="30px"> I'm Abhishek Kushwaha <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="30px"></h1>
+<h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50"> I'm Abhishek Kushwaha <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="50"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=UG+at+JIS+UNIVERSITY;Discord+Bot+Developer;Frontend+Web+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=UG+at+JIS+UNIVERSITY;Discord+Bot+Developer;Full+Stack+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
   </p>
 
 
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif"> -->
-<img src="./Avatar.svg" width="300" align="right" alt="Coding">
+
 
 - I'm a computer science student and i like to build project which solves someones problem.😀
 
 - 🔭 I’m currently working on [Moonshine 🌕](https://github.com/Abbhiishek/Moonshine/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [😎](https://github.com/Abbhiishek)
 
-- 📫 How to reach me **[📧](abhishekkushwaha1479@gmail.com)**
+- 📫 Reach out to me here **[📧](abhishekkushwaha1479@gmail.com)**
 
 - ⚡ Don’t hesitate to reach out if you’re interested in working with me, or just chatting over a cup of coffee.
 
@@ -48,9 +47,13 @@
 <h2 align="center">Blogs Post</h2>
 
   
- [Variables in C - Programming Language](https://abbhishek.hashnode.dev/variables-in-c-programming-language)
+ [Variables in C - Programming Language 📦](https://abbhishek.hashnode.dev/variables-in-c-programming-language)
  
- [Data Structure 101 in C - Programming Language](https://abbhishek.hashnode.dev/data-structure-101-in-c-programming-language)
+ [Data Structure 101 in C - Programming Language 📏](https://abbhishek.hashnode.dev/data-structure-101-in-c-programming-language)
+ 
+ [Decorators in Python 🌼](https://dev.to/abbhiishek/decorators-in-python-cm7)
+  
+ [Introduction to Arrays in C 🔠](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
  
   
 
