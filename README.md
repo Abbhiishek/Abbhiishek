@@ -1,3 +1,5 @@
+<img src="./profileheader.png">
+
 <h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50"> I'm Abhishek Kushwaha <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="50"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=UG+at+JIS+UNIVERSITY;GDSC+Lead+22;Discord+Bot+Developer;Full+Stack+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
@@ -44,6 +46,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abbhiishek&label=Stalker%20Count&color=0e75b6&style=flat" alt="Abhishek Kushwaha" /> </p>
 
 <br>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <br>
 <h2 align="center">Blogs Post</h2>
 
