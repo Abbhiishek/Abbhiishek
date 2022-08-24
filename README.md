@@ -46,11 +46,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abbhiishek&label=Stalker%20Count&color=0e75b6&style=flat" alt="Abhishek Kushwaha" /> </p>
 
 <br>
+<p align="center">
+<h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
+</p>
 <br>
 <h2 align="center">Blogs Post</h2>
 
