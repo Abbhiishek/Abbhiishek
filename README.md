@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
-2. 🎉 Merged PR [#1](https://github.com/gdsc-jisu/Birthday-Application/pull/1) in [gdsc-jisu/Birthday-Application](https://github.com/gdsc-jisu/Birthday-Application)
-3. 🎉 Merged PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-4. 💪 Opened PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-5. ❗️ Opened issue [#245](https://github.com/Subhradeep10/Fitnezz/issues/245) in [Subhradeep10/Fitnezz](https://github.com/Subhradeep10/Fitnezz)
-6. ❗️ Opened issue [#230](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/230) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
-7. 💪 Opened PR [#229](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/pull/229) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
-8. 🎉 Merged PR [#1](https://github.com/Abbhiishek/Abbhiishek/pull/1) in [Abbhiishek/Abbhiishek](https://github.com/Abbhiishek/Abbhiishek)
-9. ❗️ Opened issue [#228](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/228) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
-10. 🎉 Merged PR [#8](https://github.com/gdsc-jisu/gdsc_jisu/pull/8) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+1. 🗣 Commented on [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+2. ❗️ Opened issue [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+3. 🎉 Merged PR [#1](https://github.com/gdsc-jisu/Birthday-Application/pull/1) in [gdsc-jisu/Birthday-Application](https://github.com/gdsc-jisu/Birthday-Application)
+4. 🎉 Merged PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+5. 💪 Opened PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+6. ❗️ Opened issue [#245](https://github.com/Subhradeep10/Fitnezz/issues/245) in [Subhradeep10/Fitnezz](https://github.com/Subhradeep10/Fitnezz)
+7. ❗️ Opened issue [#230](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/230) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
+8. 💪 Opened PR [#229](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/pull/229) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
+9. 🎉 Merged PR [#1](https://github.com/Abbhiishek/Abbhiishek/pull/1) in [Abbhiishek/Abbhiishek](https://github.com/Abbhiishek/Abbhiishek)
+10. ❗️ Opened issue [#228](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/228) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
 <!--END_SECTION:activity-->
 </p>
 <br>
