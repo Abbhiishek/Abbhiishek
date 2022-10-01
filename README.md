@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Abbhiishek/Webners/issues/1) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 🗣 Commented on [#2](https://github.com/Abbhiishek/Webners/issues/2) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🗣 Commented on [#1](https://github.com/Abbhiishek/Webners/issues/1) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 🗣 Commented on [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
-5. ❗️ Opened issue [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
-6. 🎉 Merged PR [#1](https://github.com/gdsc-jisu/Birthday-Application/pull/1) in [gdsc-jisu/Birthday-Application](https://github.com/gdsc-jisu/Birthday-Application)
-7. 🎉 Merged PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-8. 💪 Opened PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-9. ❗️ Opened issue [#245](https://github.com/Subhradeep10/Fitnezz/issues/245) in [Subhradeep10/Fitnezz](https://github.com/Subhradeep10/Fitnezz)
-10. ❗️ Opened issue [#230](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects/issues/230) in [Sulagna-Dutta-Roy/Webeginner-projects](https://github.com/Sulagna-Dutta-Roy/Webeginner-projects)
+1. 🗣 Commented on [#2](https://github.com/Abbhiishek/Webners/issues/2) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+2. 🗣 Commented on [#1](https://github.com/Abbhiishek/Webners/issues/1) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 🗣 Commented on [#2](https://github.com/Abbhiishek/Webners/issues/2) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🗣 Commented on [#1](https://github.com/Abbhiishek/Webners/issues/1) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+6. ❗️ Opened issue [#21](https://github.com/metafy-social/daily-python-scripts/issues/21) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+7. 🎉 Merged PR [#1](https://github.com/gdsc-jisu/Birthday-Application/pull/1) in [gdsc-jisu/Birthday-Application](https://github.com/gdsc-jisu/Birthday-Application)
+8. 🎉 Merged PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+9. 💪 Opened PR [#9](https://github.com/gdsc-jisu/gdsc_jisu/pull/9) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+10. ❗️ Opened issue [#245](https://github.com/Subhradeep10/Fitnezz/issues/245) in [Subhradeep10/Fitnezz](https://github.com/Subhradeep10/Fitnezz)
 <!--END_SECTION:activity-->
 </p>
 <br>
