@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. ❌ Closed PR [#1](https://github.com/Abbhiishek/Python-Resources/pull/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
-3. 🗣 Commented on [#1](https://github.com/Abbhiishek/Python-Resources/issues/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
-4. 🗣 Commented on [#1](https://github.com/Abbhiishek/Python-Resources/issues/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
-5. 🗣 Commented on [#5](https://github.com/Abbhiishek/Webners/issues/5) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. 💪 Opened PR [#29](https://github.com/metafy-social/daily-python-scripts/pull/29) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
-7. ❗️ Opened issue [#27](https://github.com/metafy-social/daily-python-scripts/issues/27) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
-8. ❗️ Opened issue [#5](https://github.com/Abbhiishek/Webners/issues/5) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. ❗️ Opened issue [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. 🗣 Commented on [#2](https://github.com/Abbhiishek/Webners/issues/2) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🗣 Commented on [#6](https://github.com/fineanmol/hacktoberfest/issues/6) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+2. ❗️ Opened issue [#13](https://github.com/its-puneet/Geeky-Coders/issues/13) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+3. 🗣 Commented on [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. ❌ Closed PR [#1](https://github.com/Abbhiishek/Python-Resources/pull/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
+5. 🗣 Commented on [#1](https://github.com/Abbhiishek/Python-Resources/issues/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
+6. 🗣 Commented on [#1](https://github.com/Abbhiishek/Python-Resources/issues/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
+7. 🗣 Commented on [#5](https://github.com/Abbhiishek/Webners/issues/5) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 💪 Opened PR [#29](https://github.com/metafy-social/daily-python-scripts/pull/29) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+9. ❗️ Opened issue [#27](https://github.com/metafy-social/daily-python-scripts/issues/27) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+10. ❗️ Opened issue [#5](https://github.com/Abbhiishek/Webners/issues/5) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 <!--END_SECTION:activity-->
 </p>
 <br>
