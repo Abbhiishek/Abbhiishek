@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 🗣 Commented on [#6](https://github.com/fineanmol/hacktoberfest/issues/6) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-3. 🗣 Commented on [#6](https://github.com/fineanmol/hacktoberfest/issues/6) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
-4. ❗️ Opened issue [#13](https://github.com/its-puneet/Geeky-Coders/issues/13) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
-5. 🗣 Commented on [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. ❌ Closed PR [#1](https://github.com/Abbhiishek/Python-Resources/pull/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
-7. 🗣 Commented on [#1](https://github.com/Abbhiishek/Python-Resources/issues/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
-8. 🗣 Commented on [#1](https://github.com/Abbhiishek/Python-Resources/issues/1) in [Abbhiishek/Python-Resources](https://github.com/Abbhiishek/Python-Resources)
-9. 🗣 Commented on [#5](https://github.com/Abbhiishek/Webners/issues/5) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. 💪 Opened PR [#29](https://github.com/metafy-social/daily-python-scripts/pull/29) in [metafy-social/daily-python-scripts](https://github.com/metafy-social/daily-python-scripts)
+1. ❗️ Closed issue [#2](https://github.com/Abbhiishek/Webners/issues/2) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+2. 🎉 Merged PR [#7](https://github.com/Abbhiishek/Webners/pull/7) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 🗣 Commented on [#7](https://github.com/Abbhiishek/Webners/issues/7) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🗣 Commented on [#8](https://github.com/Abbhiishek/Webners/issues/8) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#11](https://github.com/Abbhiishek/Webners/issues/11) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+7. 🗣 Commented on [#12](https://github.com/Abbhiishek/Webners/issues/12) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 🗣 Commented on [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. 🗣 Commented on [#6](https://github.com/fineanmol/hacktoberfest/issues/6) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
+10. 🗣 Commented on [#6](https://github.com/fineanmol/hacktoberfest/issues/6) in [fineanmol/hacktoberfest](https://github.com/fineanmol/hacktoberfest)
 <!--END_SECTION:activity-->
 </p>
 <br>
