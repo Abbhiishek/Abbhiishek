@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🗣 Commented on [#22](https://github.com/Abbhiishek/Webners/issues/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 2. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 3. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 4. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-5. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. ❗️ Closed issue [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🗣 Commented on [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-8. ❗️ Opened issue [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+7. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. ❗️ Closed issue [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. 🗣 Commented on [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. ❗️ Opened issue [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 <!--END_SECTION:activity-->
 </p>
 <br>
