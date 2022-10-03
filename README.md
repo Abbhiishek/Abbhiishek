@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/Abbhiishek/Webners/pull/25) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. ❗️ Opened issue [#23](https://github.com/Abbhiishek/Webners/issues/23) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🗣 Commented on [#22](https://github.com/Abbhiishek/Webners/issues/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-5. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. ❗️ Opened issue [#64](https://github.com/Fueler-io/Web-Development-Resources/issues/64) in [Fueler-io/Web-Development-Resources](https://github.com/Fueler-io/Web-Development-Resources)
+2. ❗️ Closed issue [#23](https://github.com/Abbhiishek/Webners/issues/23) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 🎉 Merged PR [#25](https://github.com/Abbhiishek/Webners/pull/25) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🗣 Commented on [#25](https://github.com/Abbhiishek/Webners/issues/25) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🎉 Merged PR [#13](https://github.com/Abbhiishek/Webners/pull/13) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. ❗️ Closed issue [#4](https://github.com/Abbhiishek/Webners/issues/4) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+7. 🎉 Merged PR [#20](https://github.com/Abbhiishek/Webners/pull/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 8. 🗣 Commented on [#20](https://github.com/Abbhiishek/Webners/issues/20) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. ❗️ Closed issue [#21](https://github.com/Abbhiishek/Webners/issues/21) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. 🗣 Commented on [#24](https://github.com/Abbhiishek/Webners/issues/24) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. 🗣 Commented on [#10](https://github.com/Abbhiishek/Webners/issues/10) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 <!--END_SECTION:activity-->
 </p>
 <br>
