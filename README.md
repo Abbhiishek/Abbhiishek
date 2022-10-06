@@ -50,16 +50,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Abbhiishek/Webners/pull/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 🗣 Commented on [#37](https://github.com/Abbhiishek/Webners/issues/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🎉 Merged PR [#39](https://github.com/Abbhiishek/Webners/pull/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 🗣 Commented on [#39](https://github.com/Abbhiishek/Webners/issues/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-5. 🗣 Commented on [#57](https://github.com/its-puneet/Geeky-Coders/issues/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
-6. 🗣 Commented on [#38](https://github.com/Abbhiishek/Webners/issues/38) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🗣 Commented on [#57](https://github.com/its-puneet/Geeky-Coders/issues/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
-8. 🗣 Commented on [#37](https://github.com/Abbhiishek/Webners/issues/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. 🗣 Commented on [#13](https://github.com/its-puneet/Geeky-Coders/issues/13) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
-10. 💪 Opened PR [#57](https://github.com/its-puneet/Geeky-Coders/pull/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+1. 🗣 Commented on [#40](https://github.com/Abbhiishek/Webners/issues/40) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+2. 🎉 Merged PR [#37](https://github.com/Abbhiishek/Webners/pull/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 🗣 Commented on [#37](https://github.com/Abbhiishek/Webners/issues/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🎉 Merged PR [#39](https://github.com/Abbhiishek/Webners/pull/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#39](https://github.com/Abbhiishek/Webners/issues/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 🗣 Commented on [#57](https://github.com/its-puneet/Geeky-Coders/issues/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+7. 🗣 Commented on [#38](https://github.com/Abbhiishek/Webners/issues/38) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 🗣 Commented on [#57](https://github.com/its-puneet/Geeky-Coders/issues/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
+9. 🗣 Commented on [#37](https://github.com/Abbhiishek/Webners/issues/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. 🗣 Commented on [#13](https://github.com/its-puneet/Geeky-Coders/issues/13) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
 <!--END_SECTION:activity-->
 </p>
 <br>
