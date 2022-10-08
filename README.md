@@ -52,15 +52,15 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#27](https://github.com/Abbhiishek/Webners/issues/27) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 🎉 Merged PR [#42](https://github.com/Abbhiishek/Webners/pull/42) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🗣 Commented on [#40](https://github.com/Abbhiishek/Webners/issues/40) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 🎉 Merged PR [#37](https://github.com/Abbhiishek/Webners/pull/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-5. 🗣 Commented on [#37](https://github.com/Abbhiishek/Webners/issues/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. 🎉 Merged PR [#39](https://github.com/Abbhiishek/Webners/pull/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🗣 Commented on [#39](https://github.com/Abbhiishek/Webners/issues/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-8. 🗣 Commented on [#57](https://github.com/its-puneet/Geeky-Coders/issues/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
-9. 🗣 Commented on [#38](https://github.com/Abbhiishek/Webners/issues/38) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🎉 Merged PR [#10](https://github.com/gdsc-jisu/gdsc_jisu/pull/10) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+2. 💪 Opened PR [#10](https://github.com/gdsc-jisu/gdsc_jisu/pull/10) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+3. ❗️ Closed issue [#27](https://github.com/Abbhiishek/Webners/issues/27) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🎉 Merged PR [#42](https://github.com/Abbhiishek/Webners/pull/42) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#40](https://github.com/Abbhiishek/Webners/issues/40) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 🎉 Merged PR [#37](https://github.com/Abbhiishek/Webners/pull/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+7. 🗣 Commented on [#37](https://github.com/Abbhiishek/Webners/issues/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 🎉 Merged PR [#39](https://github.com/Abbhiishek/Webners/pull/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. 🗣 Commented on [#39](https://github.com/Abbhiishek/Webners/issues/39) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 10. 🗣 Commented on [#57](https://github.com/its-puneet/Geeky-Coders/issues/57) in [its-puneet/Geeky-Coders](https://github.com/its-puneet/Geeky-Coders)
 <!--END_SECTION:activity-->
 </p>
