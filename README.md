@@ -52,16 +52,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/gdsc-jisu/gdsc_jisu/pull/13) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-2. 💪 Opened PR [#13](https://github.com/gdsc-jisu/gdsc_jisu/pull/13) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-3. 🎉 Merged PR [#12](https://github.com/gdsc-jisu/gdsc_jisu/pull/12) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-4. 🗣 Commented on [#64](https://github.com/Fueler-io/Web-Development-Resources/issues/64) in [Fueler-io/Web-Development-Resources](https://github.com/Fueler-io/Web-Development-Resources)
-5. 🎉 Merged PR [#10](https://github.com/gdsc-jisu/gdsc_jisu/pull/10) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-6. 💪 Opened PR [#10](https://github.com/gdsc-jisu/gdsc_jisu/pull/10) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-7. ❗️ Closed issue [#27](https://github.com/Abbhiishek/Webners/issues/27) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-8. 🎉 Merged PR [#42](https://github.com/Abbhiishek/Webners/pull/42) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. 🗣 Commented on [#40](https://github.com/Abbhiishek/Webners/issues/40) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. 🎉 Merged PR [#37](https://github.com/Abbhiishek/Webners/pull/37) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🎉 Merged PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+2. 💪 Opened PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+3. 🎉 Merged PR [#13](https://github.com/gdsc-jisu/gdsc_jisu/pull/13) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+4. 💪 Opened PR [#13](https://github.com/gdsc-jisu/gdsc_jisu/pull/13) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+5. 🎉 Merged PR [#12](https://github.com/gdsc-jisu/gdsc_jisu/pull/12) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+6. 🗣 Commented on [#64](https://github.com/Fueler-io/Web-Development-Resources/issues/64) in [Fueler-io/Web-Development-Resources](https://github.com/Fueler-io/Web-Development-Resources)
+7. 🎉 Merged PR [#10](https://github.com/gdsc-jisu/gdsc_jisu/pull/10) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+8. 💪 Opened PR [#10](https://github.com/gdsc-jisu/gdsc_jisu/pull/10) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+9. ❗️ Closed issue [#27](https://github.com/Abbhiishek/Webners/issues/27) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. 🎉 Merged PR [#42](https://github.com/Abbhiishek/Webners/pull/42) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 <!--END_SECTION:activity-->
 </p>
 <br>
