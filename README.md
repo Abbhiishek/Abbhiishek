@@ -52,16 +52,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-2. 💪 Opened PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-3. 🎉 Merged PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-4. 💪 Opened PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-5. 🎉 Merged PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-6. 💪 Opened PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-7. 🎉 Merged PR [#13](https://github.com/gdsc-jisu/gdsc_jisu/pull/13) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-8. 💪 Opened PR [#13](https://github.com/gdsc-jisu/gdsc_jisu/pull/13) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-9. 🎉 Merged PR [#12](https://github.com/gdsc-jisu/gdsc_jisu/pull/12) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-10. 🗣 Commented on [#64](https://github.com/Fueler-io/Web-Development-Resources/issues/64) in [Fueler-io/Web-Development-Resources](https://github.com/Fueler-io/Web-Development-Resources)
+1. ❗️ Opened issue [#130](https://github.com/codedamn/projects/issues/130) in [codedamn/projects](https://github.com/codedamn/projects)
+2. ❗️ Closed issue [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 🎉 Merged PR [#43](https://github.com/Abbhiishek/Webners/pull/43) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🗣 Commented on [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🎉 Merged PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+6. 💪 Opened PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+7. 🎉 Merged PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+8. 💪 Opened PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+9. 🎉 Merged PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+10. 💪 Opened PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
 <!--END_SECTION:activity-->
 </p>
 <br>
