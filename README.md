@@ -52,16 +52,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#130](https://github.com/codedamn/projects/issues/130) in [codedamn/projects](https://github.com/codedamn/projects)
-2. ❗️ Closed issue [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🎉 Merged PR [#43](https://github.com/Abbhiishek/Webners/pull/43) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 🗣 Commented on [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-5. 🎉 Merged PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-6. 💪 Opened PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-7. 🎉 Merged PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-8. 💪 Opened PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-9. 🎉 Merged PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-10. 💪 Opened PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+1. ❗️ Opened issue [#5716](https://github.com/EddieHubCommunity/support/issues/5716) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#130](https://github.com/codedamn/projects/issues/130) in [codedamn/projects](https://github.com/codedamn/projects)
+3. ❗️ Closed issue [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🎉 Merged PR [#43](https://github.com/Abbhiishek/Webners/pull/43) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 🎉 Merged PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+7. 💪 Opened PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+8. 🎉 Merged PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+9. 💪 Opened PR [#15](https://github.com/gdsc-jisu/gdsc_jisu/pull/15) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+10. 🎉 Merged PR [#14](https://github.com/gdsc-jisu/gdsc_jisu/pull/14) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
 <!--END_SECTION:activity-->
 </p>
 <br>
