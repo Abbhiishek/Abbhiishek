@@ -52,16 +52,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/Abbhiishek/Webners/issues/24) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 🎉 Merged PR [#45](https://github.com/Abbhiishek/Webners/pull/45) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🗣 Commented on [#44](https://github.com/Abbhiishek/Webners/issues/44) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. ❗️ Opened issue [#5716](https://github.com/EddieHubCommunity/support/issues/5716) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❗️ Opened issue [#130](https://github.com/codedamn/projects/issues/130) in [codedamn/projects](https://github.com/codedamn/projects)
-6. ❗️ Closed issue [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🎉 Merged PR [#43](https://github.com/Abbhiishek/Webners/pull/43) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-8. 🗣 Commented on [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. 🎉 Merged PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
-10. 💪 Opened PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
+1. 🗣 Commented on [#47](https://github.com/Abbhiishek/Webners/issues/47) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+2. ❗️ Closed issue [#24](https://github.com/Abbhiishek/Webners/issues/24) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 🎉 Merged PR [#45](https://github.com/Abbhiishek/Webners/pull/45) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+4. 🗣 Commented on [#44](https://github.com/Abbhiishek/Webners/issues/44) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. ❗️ Opened issue [#5716](https://github.com/EddieHubCommunity/support/issues/5716) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+6. ❗️ Opened issue [#130](https://github.com/codedamn/projects/issues/130) in [codedamn/projects](https://github.com/codedamn/projects)
+7. ❗️ Closed issue [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 🎉 Merged PR [#43](https://github.com/Abbhiishek/Webners/pull/43) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. 🗣 Commented on [#14](https://github.com/Abbhiishek/Webners/issues/14) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. 🎉 Merged PR [#16](https://github.com/gdsc-jisu/gdsc_jisu/pull/16) in [gdsc-jisu/gdsc_jisu](https://github.com/gdsc-jisu/gdsc_jisu)
 <!--END_SECTION:activity-->
 </p>
 <br>
