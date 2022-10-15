@@ -65,16 +65,16 @@
 <!--END_SECTION:activity-->
 </p>
 <br>
+
 <h2 align="center">Blogs Post</h2>
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
+
 
   
- [Variables in C - Programming Language 📦](https://abbhishek.hashnode.dev/variables-in-c-programming-language)
- 
- [Data Structure 101 in C - Programming Language 📏](https://abbhishek.hashnode.dev/data-structure-101-in-c-programming-language)
- 
- [Decorators in Python 🌼](https://dev.to/abbhiishek/decorators-in-python-cm7)
-  
- [Introduction to Arrays in C 🔠](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
+
  
   
 
