@@ -68,8 +68,7 @@
 
 <h2 align="center">Blogs Post</h2>
 <!-- BLOG-POST-LIST:START -->
-
-- [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6) 
+- [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6)
 - [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
 - [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
 - [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
@@ -79,7 +78,6 @@
 - [Decorators in Python](https://dev.to/abbhiishek/decorators-in-python-cm7)
 - [Data Structure In C](https://dev.to/abbhiishek/data-structure-in-c-126l)
 - [Variables in C - Programming Language](https://dev.to/abbhiishek/variables-in-c-programming-language-54m9)
-
 <!-- BLOG-POST-LIST:END -->
 
 
