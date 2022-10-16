@@ -66,7 +66,8 @@
 </p>
 <br>
 
-<h2 align="center">Blogs Post</h2>
+<h1>📰 Recent Blogs</h1>
+
 <!-- BLOG-POST-LIST:START -->
 - [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6)
 - [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
@@ -79,16 +80,6 @@
 - [Data Structure In C](https://dev.to/abbhiishek/data-structure-in-c-126l)
 - [Variables in C - Programming Language](https://dev.to/abbhiishek/variables-in-c-programming-language-54m9)
 <!-- BLOG-POST-LIST:END -->
-
-
-  
-
- 
-  
-
-
-  
-  
   
 <div align="center">
     <h2>Github Profile Stats 📊</h2>
@@ -97,9 +88,3 @@
     <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
     <img src="https://github-profile-trophy.vercel.app/?username=abbhiishek&theme=onedark&no-frame=true&no-bg=true&theme=discord">
 </div>
-
-
-
-
-
-
