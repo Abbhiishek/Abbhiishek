@@ -42,15 +42,15 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 💪 Opened PR [#95](https://github.com/InnateComm/community/pull/95) in [InnateComm/community](https://github.com/InnateComm/community)
-3. ❗️ Opened issue [#94](https://github.com/InnateComm/community/issues/94) in [InnateComm/community](https://github.com/InnateComm/community)
-4. ❌ Closed PR [#22](https://github.com/Abbhiishek/Webners/pull/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-5. ❌ Closed PR [#36](https://github.com/Abbhiishek/Webners/pull/36) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. 🎉 Merged PR [#54](https://github.com/Abbhiishek/Webners/pull/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🗣 Commented on [#54](https://github.com/Abbhiishek/Webners/issues/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-8. 🗣 Commented on [#75](https://github.com/Abbhiishek/Webners/issues/75) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+2. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 💪 Opened PR [#95](https://github.com/InnateComm/community/pull/95) in [InnateComm/community](https://github.com/InnateComm/community)
+4. ❗️ Opened issue [#94](https://github.com/InnateComm/community/issues/94) in [InnateComm/community](https://github.com/InnateComm/community)
+5. ❌ Closed PR [#22](https://github.com/Abbhiishek/Webners/pull/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. ❌ Closed PR [#36](https://github.com/Abbhiishek/Webners/pull/36) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+7. 🎉 Merged PR [#54](https://github.com/Abbhiishek/Webners/pull/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 🗣 Commented on [#54](https://github.com/Abbhiishek/Webners/issues/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 9. 🗣 Commented on [#75](https://github.com/Abbhiishek/Webners/issues/75) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. 🗣 Commented on [#74](https://github.com/Abbhiishek/Webners/issues/74) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. 🗣 Commented on [#75](https://github.com/Abbhiishek/Webners/issues/75) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 <!--END_SECTION:activity-->
 </p>
 <br>
