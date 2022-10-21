@@ -70,9 +70,3 @@
 - [Variables in C - Programming Language](https://dev.to/abbhiishek/variables-in-c-programming-language-54m9)
 <!-- BLOG-POST-LIST:END -->
   
-<div align="center">
-    <h2>Github Profile Stats 📊</h2>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abbhiishek&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbhiishek&theme=tokyonight" /img>  
-    
-</div>
