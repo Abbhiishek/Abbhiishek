@@ -41,16 +41,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-2. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 💪 Opened PR [#95](https://github.com/InnateComm/community/pull/95) in [InnateComm/community](https://github.com/InnateComm/community)
-4. ❗️ Opened issue [#94](https://github.com/InnateComm/community/issues/94) in [InnateComm/community](https://github.com/InnateComm/community)
-5. ❌ Closed PR [#22](https://github.com/Abbhiishek/Webners/pull/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. ❌ Closed PR [#36](https://github.com/Abbhiishek/Webners/pull/36) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 🎉 Merged PR [#54](https://github.com/Abbhiishek/Webners/pull/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-8. 🗣 Commented on [#54](https://github.com/Abbhiishek/Webners/issues/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-9. 🗣 Commented on [#75](https://github.com/Abbhiishek/Webners/issues/75) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. 🗣 Commented on [#75](https://github.com/Abbhiishek/Webners/issues/75) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🎉 Merged PR [#77](https://github.com/Abbhiishek/Webners/pull/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+2. 🗣 Commented on [#77](https://github.com/Abbhiishek/Webners/issues/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+3. 💪 Opened PR [#211](https://github.com/codedamn/projects/pull/211) in [codedamn/projects](https://github.com/codedamn/projects)
+4. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 💪 Opened PR [#95](https://github.com/InnateComm/community/pull/95) in [InnateComm/community](https://github.com/InnateComm/community)
+7. ❗️ Opened issue [#94](https://github.com/InnateComm/community/issues/94) in [InnateComm/community](https://github.com/InnateComm/community)
+8. ❌ Closed PR [#22](https://github.com/Abbhiishek/Webners/pull/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. ❌ Closed PR [#36](https://github.com/Abbhiishek/Webners/pull/36) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+10. 🎉 Merged PR [#54](https://github.com/Abbhiishek/Webners/pull/54) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
 <!--END_SECTION:activity-->
 </p>
 <br>
