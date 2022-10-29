@@ -41,16 +41,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/beluga2003/the-biriyani-shop/pull/1) in [beluga2003/the-biriyani-shop](https://github.com/beluga2003/the-biriyani-shop)
-2. 🎉 Merged PR [#77](https://github.com/Abbhiishek/Webners/pull/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-3. 🗣 Commented on [#77](https://github.com/Abbhiishek/Webners/issues/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 💪 Opened PR [#211](https://github.com/codedamn/projects/pull/211) in [codedamn/projects](https://github.com/codedamn/projects)
-5. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-6. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-7. 💪 Opened PR [#95](https://github.com/InnateComm/community/pull/95) in [InnateComm/community](https://github.com/InnateComm/community)
-8. ❗️ Opened issue [#94](https://github.com/InnateComm/community/issues/94) in [InnateComm/community](https://github.com/InnateComm/community)
-9. ❌ Closed PR [#22](https://github.com/Abbhiishek/Webners/pull/22) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-10. ❌ Closed PR [#36](https://github.com/Abbhiishek/Webners/pull/36) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🎉 Merged PR [#1](https://github.com/Abbhiishek/dscjisu/pull/1) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+2. 💪 Opened PR [#2](https://github.com/beluga2003/the-biriyani-shop/pull/2) in [beluga2003/the-biriyani-shop](https://github.com/beluga2003/the-biriyani-shop)
+3. 💪 Opened PR [#1](https://github.com/beluga2003/the-biriyani-shop/pull/1) in [beluga2003/the-biriyani-shop](https://github.com/beluga2003/the-biriyani-shop)
+4. 🎉 Merged PR [#77](https://github.com/Abbhiishek/Webners/pull/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+5. 🗣 Commented on [#77](https://github.com/Abbhiishek/Webners/issues/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 💪 Opened PR [#211](https://github.com/codedamn/projects/pull/211) in [codedamn/projects](https://github.com/codedamn/projects)
+7. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+8. 🗣 Commented on [#76](https://github.com/Abbhiishek/Webners/issues/76) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+9. 💪 Opened PR [#95](https://github.com/InnateComm/community/pull/95) in [InnateComm/community](https://github.com/InnateComm/community)
+10. ❗️ Opened issue [#94](https://github.com/InnateComm/community/issues/94) in [InnateComm/community](https://github.com/InnateComm/community)
 <!--END_SECTION:activity-->
 </p>
 <br>
