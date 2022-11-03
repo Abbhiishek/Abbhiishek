@@ -70,3 +70,8 @@
 - [Variables in C - Programming Language](https://dev.to/abbhiishek/variables-in-c-programming-language-54m9)
 <!-- BLOG-POST-LIST:END -->
   
+  
+#### :books: Recent Blog Posts
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
