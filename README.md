@@ -59,11 +59,14 @@
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
- - 🔥 [Python is an object-oriented programming language](https://abbhishek.hashnode.dev/python-is-an-object-oriented-programming-language)
- - 🔥 [Learn Web Dev FREE!](https://abbhishek.hashnode.dev/learn-web-dev-free)
- - 💫 [Why is it time to move on to ReactJS?](https://abbhishek.hashnode.dev/why-is-it-time-to-move-on-to-reactjs)
- - 🚀 [Pointers in C](https://abbhishek.hashnode.dev/pointers-in-c)
- - 🔥 [Decorators in Python](https://abbhishek.hashnode.dev/decorators-in-python)
- 
- <!-- BLOG-POST-LIST:END -->
+- [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6)
+- [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
+- [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
+- [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
+- [Why is it time to move on to ReactJS ?](https://dev.to/abbhiishek/why-is-it-time-to-move-on-to-reactjs--4na1)
+- [React Functional vs Class Components - Beginners Guide.](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
+- [Introduction To Arrays](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
+- [Decorators in Python](https://dev.to/abbhiishek/decorators-in-python-cm7)
+- [Data Structure In C](https://dev.to/abbhiishek/data-structure-in-c-126l)
+- [Variables in C - Programming Language](https://dev.to/abbhiishek/variables-in-c-programming-language-54m9)
+<!-- BLOG-POST-LIST:END -->
