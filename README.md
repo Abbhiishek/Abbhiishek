@@ -56,11 +56,14 @@
 <br>
 
   
-#### :books: Recent Blog Posts
+## :books: Recent Blog Posts
 
-<!-- BLOGPOSTS:START -->
+<!-- BLOG-POST-LIST:START -->
+
  - 🔥 [Python is an object-oriented programming language](https://abbhishek.hashnode.dev/python-is-an-object-oriented-programming-language)
  - 🔥 [Learn Web Dev FREE!](https://abbhishek.hashnode.dev/learn-web-dev-free)
  - 💫 [Why is it time to move on to ReactJS?](https://abbhishek.hashnode.dev/why-is-it-time-to-move-on-to-reactjs)
  - 🚀 [Pointers in C](https://abbhishek.hashnode.dev/pointers-in-c)
- - 🔥 [Decorators in Python](https://abbhishek.hashnode.dev/decorators-in-python)<!-- BLOGPOSTS:END -->
+ - 🔥 [Decorators in Python](https://abbhishek.hashnode.dev/decorators-in-python)
+ 
+ <!-- BLOG-POST-LIST:END -->
