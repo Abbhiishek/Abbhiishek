@@ -41,16 +41,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#211](https://github.com/codedamn/projects/issues/211) in [codedamn/projects](https://github.com/codedamn/projects)
-2. 🗣 Commented on [#211](https://github.com/codedamn/projects/issues/211) in [codedamn/projects](https://github.com/codedamn/projects)
-3. 🗣 Commented on [#78](https://github.com/Abbhiishek/Webners/issues/78) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
-4. 🎉 Merged PR [#17](https://github.com/dscjisu/gdsc_jisu/pull/17) in [dscjisu/gdsc_jisu](https://github.com/dscjisu/gdsc_jisu)
-5. 🎉 Merged PR [#1](https://github.com/dscjisu/dscjisu/pull/1) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-6. 💪 Opened PR [#1](https://github.com/dscjisu/dscjisu/pull/1) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-7. 🎉 Merged PR [#1](https://github.com/Abbhiishek/dscjisu/pull/1) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-8. 💪 Opened PR [#2](https://github.com/beluga2003/the-biriyani-shop/pull/2) in [beluga2003/the-biriyani-shop](https://github.com/beluga2003/the-biriyani-shop)
-9. 💪 Opened PR [#1](https://github.com/beluga2003/the-biriyani-shop/pull/1) in [beluga2003/the-biriyani-shop](https://github.com/beluga2003/the-biriyani-shop)
-10. 🎉 Merged PR [#77](https://github.com/Abbhiishek/Webners/pull/77) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+1. 🎉 Merged PR [#2](https://github.com/dscjisu/dscjisu/pull/2) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+2. 💪 Opened PR [#2](https://github.com/dscjisu/dscjisu/pull/2) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+3. 🗣 Commented on [#211](https://github.com/codedamn/projects/issues/211) in [codedamn/projects](https://github.com/codedamn/projects)
+4. 🗣 Commented on [#211](https://github.com/codedamn/projects/issues/211) in [codedamn/projects](https://github.com/codedamn/projects)
+5. 🗣 Commented on [#78](https://github.com/Abbhiishek/Webners/issues/78) in [Abbhiishek/Webners](https://github.com/Abbhiishek/Webners)
+6. 🎉 Merged PR [#17](https://github.com/dscjisu/gdsc_jisu/pull/17) in [dscjisu/gdsc_jisu](https://github.com/dscjisu/gdsc_jisu)
+7. 🎉 Merged PR [#1](https://github.com/dscjisu/dscjisu/pull/1) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+8. 💪 Opened PR [#1](https://github.com/dscjisu/dscjisu/pull/1) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+9. 🎉 Merged PR [#1](https://github.com/Abbhiishek/dscjisu/pull/1) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+10. 💪 Opened PR [#2](https://github.com/beluga2003/the-biriyani-shop/pull/2) in [beluga2003/the-biriyani-shop](https://github.com/beluga2003/the-biriyani-shop)
 <!--END_SECTION:activity-->
 </p>
 <br>
