@@ -41,16 +41,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/dscjisu/dscjisu/pull/4) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-2. 💪 Opened PR [#4](https://github.com/dscjisu/dscjisu/pull/4) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-3. 🎉 Merged PR [#2](https://github.com/Abbhiishek/dscjisu/pull/2) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-4. 🗣 Commented on [#5](https://github.com/Abbhiishek/dscjisu/issues/5) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-5. 🎉 Merged PR [#5](https://github.com/Abbhiishek/dscjisu/pull/5) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-6. 🎉 Merged PR [#3](https://github.com/dscjisu/dscjisu/pull/3) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-7. 💪 Opened PR [#3](https://github.com/dscjisu/dscjisu/pull/3) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-8. 🗣 Commented on [#5](https://github.com/Abbhiishek/dscjisu/issues/5) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-9. 🎉 Merged PR [#4](https://github.com/Abbhiishek/dscjisu/pull/4) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-10. 🎉 Merged PR [#3](https://github.com/Abbhiishek/dscjisu/pull/3) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+1. 🎉 Merged PR [#5](https://github.com/dscjisu/dscjisu/pull/5) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+2. 💪 Opened PR [#5](https://github.com/dscjisu/dscjisu/pull/5) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+3. 🎉 Merged PR [#4](https://github.com/dscjisu/dscjisu/pull/4) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+4. 💪 Opened PR [#4](https://github.com/dscjisu/dscjisu/pull/4) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+5. 🎉 Merged PR [#2](https://github.com/Abbhiishek/dscjisu/pull/2) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+6. 🗣 Commented on [#5](https://github.com/Abbhiishek/dscjisu/issues/5) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+7. 🎉 Merged PR [#5](https://github.com/Abbhiishek/dscjisu/pull/5) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+8. 🎉 Merged PR [#3](https://github.com/dscjisu/dscjisu/pull/3) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+9. 💪 Opened PR [#3](https://github.com/dscjisu/dscjisu/pull/3) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+10. 🗣 Commented on [#5](https://github.com/Abbhiishek/dscjisu/issues/5) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
 <!--END_SECTION:activity-->
 </p>
 <br>
