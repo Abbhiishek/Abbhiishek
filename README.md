@@ -41,16 +41,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Abbhiishek/dscjisu/pull/6) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
-2. 🎉 Merged PR [#10](https://github.com/dscjisu/dscjisu/pull/10) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-3. 💪 Opened PR [#10](https://github.com/dscjisu/dscjisu/pull/10) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-4. 🎉 Merged PR [#9](https://github.com/dscjisu/dscjisu/pull/9) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-5. 💪 Opened PR [#9](https://github.com/dscjisu/dscjisu/pull/9) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-6. 🎉 Merged PR [#8](https://github.com/dscjisu/dscjisu/pull/8) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-7. 💪 Opened PR [#8](https://github.com/dscjisu/dscjisu/pull/8) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-8. 🎉 Merged PR [#7](https://github.com/dscjisu/dscjisu/pull/7) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-9. 💪 Opened PR [#7](https://github.com/dscjisu/dscjisu/pull/7) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-10. 🎉 Merged PR [#6](https://github.com/dscjisu/dscjisu/pull/6) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+1. 🎉 Merged PR [#14](https://github.com/dscjisu/dscjisu/pull/14) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+2. 💪 Opened PR [#14](https://github.com/dscjisu/dscjisu/pull/14) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+3. 🎉 Merged PR [#13](https://github.com/dscjisu/dscjisu/pull/13) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+4. 💪 Opened PR [#13](https://github.com/dscjisu/dscjisu/pull/13) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+5. 🎉 Merged PR [#7](https://github.com/Abbhiishek/dscjisu/pull/7) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
+6. 🎉 Merged PR [#12](https://github.com/dscjisu/dscjisu/pull/12) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+7. 💪 Opened PR [#12](https://github.com/dscjisu/dscjisu/pull/12) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+8. 🎉 Merged PR [#11](https://github.com/dscjisu/dscjisu/pull/11) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+9. 💪 Opened PR [#11](https://github.com/dscjisu/dscjisu/pull/11) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+10. 🎉 Merged PR [#6](https://github.com/Abbhiishek/dscjisu/pull/6) in [Abbhiishek/dscjisu](https://github.com/Abbhiishek/dscjisu)
 <!--END_SECTION:activity-->
 </p>
 <br>
