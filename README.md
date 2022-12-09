@@ -59,6 +59,7 @@
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
 - [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
 - [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
 - [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
@@ -68,5 +69,4 @@
 - [Introduction To Arrays](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
 - [Decorators in Python](https://dev.to/abbhiishek/decorators-in-python-cm7)
 - [Data Structure In C](https://dev.to/abbhiishek/data-structure-in-c-126l)
-- [Variables in C - Programming Language](https://dev.to/abbhiishek/variables-in-c-programming-language-54m9)
 <!-- BLOG-POST-LIST:END -->
