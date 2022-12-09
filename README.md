@@ -59,6 +59,7 @@
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Tips for Success: How to Be a Productive Developer and Student](https://dev.to/abbhiishek/10-tips-for-success-how-to-be-a-productive-developer-and-student-440f)
 - [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
 - [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
 - [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
@@ -68,5 +69,4 @@
 - [React Functional vs Class Components - Beginners Guide.](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
 - [Introduction To Arrays](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
 - [Decorators in Python](https://dev.to/abbhiishek/decorators-in-python-cm7)
-- [Data Structure In C](https://dev.to/abbhiishek/data-structure-in-c-126l)
 <!-- BLOG-POST-LIST:END -->
