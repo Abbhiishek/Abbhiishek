@@ -9,7 +9,13 @@
 
 
 
-- I'm a computer science student and i like to build project which solves someones problem.😀
+Hi, my name is Abhishek Kushwaha and I am a student and web developer.
+I am currently studying computer science at JIS University, where I am learning about the latest technologies and techniques in the field of web development.
+In my free time, I enjoy building websites and web applications using technologies like HTML, CSS, JavaScript, and React. I am always looking for new challenges and opportunities to learn and grow as a developer.
+I am passionate about using technology to solve problems and make a positive impact in the world. In the future, I hope to use my skills to create innovative and user-friendly web applications that can help people in their daily lives.
+Thank you for taking the time to learn more about me. I am excited to see what the future holds and to continue growing as a web developer.
+
+
 
 - 🔭 I’m currently working **on Code For Community**
 
