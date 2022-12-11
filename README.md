@@ -65,6 +65,8 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Yaml](https://dev.to/abbhiishek/guide-to-yaml-339b)
+- [TypeScript](https://dev.to/abbhiishek/typescript-3abm)
 - [10 Tips for Success: How to Be a Productive Developer and Student](https://dev.to/abbhiishek/10-tips-for-success-how-to-be-a-productive-developer-and-student-440f)
 - [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
 - [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
@@ -73,6 +75,4 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 - [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
 - [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
 - [Why is it time to move on to ReactJS ?](https://dev.to/abbhiishek/why-is-it-time-to-move-on-to-reactjs--4na1)
-- [React Functional vs Class Components - Beginners Guide.](https://dev.to/abbhiishek/react-functional-vs-class-components-beginners-guide-4ca3)
-- [Introduction To Arrays](https://dev.to/abbhiishek/introduction-to-arrays-4d59)
 <!-- BLOG-POST-LIST:END -->
