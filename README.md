@@ -65,6 +65,7 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering MongoDB and Mongoose in Node.js](https://dev.to/abbhiishek/mastering-mongodb-and-mongoose-in-nodejs-1be5)
 - [Guide to Yaml](https://dev.to/abbhiishek/guide-to-yaml-339b)
 - [TypeScript](https://dev.to/abbhiishek/typescript-3abm)
 - [10 Tips for Success: How to Be a Productive Developer and Student](https://dev.to/abbhiishek/10-tips-for-success-how-to-be-a-productive-developer-and-student-440f)
@@ -74,5 +75,4 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 - [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
 - [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
 - [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
-- [Why is it time to move on to ReactJS ?](https://dev.to/abbhiishek/why-is-it-time-to-move-on-to-reactjs--4na1)
 <!-- BLOG-POST-LIST:END -->
