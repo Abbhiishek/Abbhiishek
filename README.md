@@ -47,16 +47,16 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/dscjisu/.github/issues/4) in [dscjisu/.github](https://github.com/dscjisu/.github)
-2. ❗️ Opened issue [#3](https://github.com/dscjisu/.github/issues/3) in [dscjisu/.github](https://github.com/dscjisu/.github)
-3. ❗️ Opened issue [#2](https://github.com/dscjisu/.github/issues/2) in [dscjisu/.github](https://github.com/dscjisu/.github)
-4. ❗️ Closed issue [#1](https://github.com/dscjisu/.github/issues/1) in [dscjisu/.github](https://github.com/dscjisu/.github)
-5. ❗️ Opened issue [#1](https://github.com/dscjisu/.github/issues/1) in [dscjisu/.github](https://github.com/dscjisu/.github)
-6. ❗️ Closed issue [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-7. 🗣 Commented on [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-8. ❗️ Opened issue [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-9. 🎉 Merged PR [#14](https://github.com/dscjisu/dscjisu/pull/14) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
-10. 💪 Opened PR [#14](https://github.com/dscjisu/dscjisu/pull/14) in [dscjisu/dscjisu](https://github.com/dscjisu/dscjisu)
+1. 🗣 Commented on [#1](https://github.com/dscjisu/WebDev/issues/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+2. 💪 Opened PR [#1](https://github.com/dscjisu/WebDev/pull/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+3. ❗️ Opened issue [#4](https://github.com/dscjisu/.github/issues/4) in [dscjisu/.github](https://github.com/dscjisu/.github)
+4. ❗️ Opened issue [#3](https://github.com/dscjisu/.github/issues/3) in [dscjisu/.github](https://github.com/dscjisu/.github)
+5. ❗️ Opened issue [#2](https://github.com/dscjisu/.github/issues/2) in [dscjisu/.github](https://github.com/dscjisu/.github)
+6. ❗️ Closed issue [#1](https://github.com/dscjisu/.github/issues/1) in [dscjisu/.github](https://github.com/dscjisu/.github)
+7. ❗️ Opened issue [#1](https://github.com/dscjisu/.github/issues/1) in [dscjisu/.github](https://github.com/dscjisu/.github)
+8. ❗️ Closed issue [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+9. 🗣 Commented on [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+10. ❗️ Opened issue [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
 <!--END_SECTION:activity-->
 </p>
 <br>
