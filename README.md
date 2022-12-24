@@ -47,16 +47,16 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dscjisu/WebDev/pull/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-2. 🗣 Commented on [#1](https://github.com/dscjisu/WebDev/issues/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-3. 💪 Opened PR [#1](https://github.com/dscjisu/WebDev/pull/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-4. ❗️ Opened issue [#4](https://github.com/dscjisu/.github/issues/4) in [dscjisu/.github](https://github.com/dscjisu/.github)
-5. ❗️ Opened issue [#3](https://github.com/dscjisu/.github/issues/3) in [dscjisu/.github](https://github.com/dscjisu/.github)
-6. ❗️ Opened issue [#2](https://github.com/dscjisu/.github/issues/2) in [dscjisu/.github](https://github.com/dscjisu/.github)
-7. ❗️ Closed issue [#1](https://github.com/dscjisu/.github/issues/1) in [dscjisu/.github](https://github.com/dscjisu/.github)
-8. ❗️ Opened issue [#1](https://github.com/dscjisu/.github/issues/1) in [dscjisu/.github](https://github.com/dscjisu/.github)
-9. ❗️ Closed issue [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-10. 🗣 Commented on [#12783](https://github.com/Automattic/mongoose/issues/12783) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+1. 🎉 Merged PR [#5](https://github.com/dscjisu/WebDev/pull/5) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+2. 💪 Opened PR [#5](https://github.com/dscjisu/WebDev/pull/5) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+3. 🗣 Commented on [#3](https://github.com/dscjisu/WebDev/issues/3) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+4. 🎉 Merged PR [#3](https://github.com/dscjisu/WebDev/pull/3) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+5. 🎉 Merged PR [#4](https://github.com/dscjisu/WebDev/pull/4) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+6. 🗣 Commented on [#4](https://github.com/dscjisu/WebDev/issues/4) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+7. 🎉 Merged PR [#1](https://github.com/dscjisu/WebDev/pull/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+8. 🗣 Commented on [#1](https://github.com/dscjisu/WebDev/issues/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+9. 💪 Opened PR [#1](https://github.com/dscjisu/WebDev/pull/1) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+10. ❗️ Opened issue [#4](https://github.com/dscjisu/.github/issues/4) in [dscjisu/.github](https://github.com/dscjisu/.github)
 <!--END_SECTION:activity-->
 </p>
 <br>
