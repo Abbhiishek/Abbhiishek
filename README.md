@@ -47,16 +47,16 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/dscjisu/WebDev/pull/17) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-2. 🗣 Commented on [#17](https://github.com/dscjisu/WebDev/issues/17) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-3. 🎉 Merged PR [#14](https://github.com/dscjisu/WebDev/pull/14) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-4. 🎉 Merged PR [#12](https://github.com/dscjisu/WebDev/pull/12) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-5. ❌ Closed PR [#7](https://github.com/dscjisu/WebDev/pull/7) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-6. 🗣 Commented on [#10](https://github.com/dscjisu/WebDev/issues/10) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-7. 🗣 Commented on [#8](https://github.com/dscjisu/WebDev/issues/8) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-8. ❌ Closed PR [#8](https://github.com/dscjisu/WebDev/pull/8) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-9. 🎉 Merged PR [#9](https://github.com/dscjisu/WebDev/pull/9) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
-10. 🎉 Merged PR [#5](https://github.com/dscjisu/WebDev/pull/5) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+1. 🎉 Merged PR [#21](https://github.com/dscjisu/WebDev/pull/21) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+2. 🎉 Merged PR [#24](https://github.com/dscjisu/WebDev/pull/24) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+3. 🎉 Merged PR [#17](https://github.com/dscjisu/WebDev/pull/17) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+4. 🗣 Commented on [#17](https://github.com/dscjisu/WebDev/issues/17) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+5. 🎉 Merged PR [#14](https://github.com/dscjisu/WebDev/pull/14) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+6. 🎉 Merged PR [#12](https://github.com/dscjisu/WebDev/pull/12) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+7. ❌ Closed PR [#7](https://github.com/dscjisu/WebDev/pull/7) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+8. 🗣 Commented on [#10](https://github.com/dscjisu/WebDev/issues/10) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+9. 🗣 Commented on [#8](https://github.com/dscjisu/WebDev/issues/8) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+10. ❌ Closed PR [#8](https://github.com/dscjisu/WebDev/pull/8) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
 <!--END_SECTION:activity-->
 </p>
 <br>
