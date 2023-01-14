@@ -41,9 +41,6 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 </p>
 <br>
 <br>
-<p align="center">
-
-<img src="https://www.holopin.io/api/user/board?user=abbhiishek" >
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
@@ -58,7 +55,7 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 9. 🗣 Commented on [#67](https://github.com/dscjisu/WebDev/issues/67) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
 10. 🎉 Merged PR [#63](https://github.com/dscjisu/WebDev/pull/63) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
 <!--END_SECTION:activity-->
-</p>
+
 <br>
 
   
