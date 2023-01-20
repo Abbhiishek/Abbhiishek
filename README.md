@@ -62,6 +62,7 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
 - [Mastering MongoDB and Mongoose in Node.js](https://dev.to/abbhiishek/mastering-mongodb-and-mongoose-in-nodejs-1be5)
 - [Guide to Yaml](https://dev.to/abbhiishek/guide-to-yaml-339b)
 - [TypeScript](https://dev.to/abbhiishek/typescript-3abm)
@@ -71,5 +72,4 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 - [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6)
 - [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
 - [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
-- [Learn Web Dev FREE !](https://dev.to/abbhiishek/learn-web-dev-free--2pl9)
 <!-- BLOG-POST-LIST:END -->
