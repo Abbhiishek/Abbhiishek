@@ -46,16 +46,16 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ChandanP007/eduBro/pull/4) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-2. 💪 Opened PR [#3](https://github.com/ChandanP007/eduBro/pull/3) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-3. 💪 Opened PR [#2](https://github.com/ChandanP007/eduBro/pull/2) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-4. ❌ Closed PR [#1](https://github.com/ChandanP007/eduBro/pull/1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-5. 🎉 Merged PR [#5](https://github.com/dscjisu/Flutter-Forward-Event/pull/5) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
-6. 🎉 Merged PR [#4](https://github.com/dscjisu/Flutter-Forward-Event/pull/4) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
-7. 🎉 Merged PR [#3](https://github.com/dscjisu/Flutter-Forward-Event/pull/3) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
-8. 🎉 Merged PR [#2](https://github.com/dscjisu/Flutter-Forward-Event/pull/2) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
-9. 🗣 Commented on [#3738](https://github.com/layer5io/layer5/issues/3738) in [layer5io/layer5](https://github.com/layer5io/layer5)
-10. 🎉 Merged PR [#69](https://github.com/dscjisu/WebDev/pull/69) in [dscjisu/WebDev](https://github.com/dscjisu/WebDev)
+1. 💪 Opened PR [#5](https://github.com/ChandanP007/eduBro/pull/5) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+2. 💪 Opened PR [#4](https://github.com/ChandanP007/eduBro/pull/4) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+3. 💪 Opened PR [#3](https://github.com/ChandanP007/eduBro/pull/3) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+4. 💪 Opened PR [#2](https://github.com/ChandanP007/eduBro/pull/2) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+5. ❌ Closed PR [#1](https://github.com/ChandanP007/eduBro/pull/1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+6. 🎉 Merged PR [#5](https://github.com/dscjisu/Flutter-Forward-Event/pull/5) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
+7. 🎉 Merged PR [#4](https://github.com/dscjisu/Flutter-Forward-Event/pull/4) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
+8. 🎉 Merged PR [#3](https://github.com/dscjisu/Flutter-Forward-Event/pull/3) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
+9. 🎉 Merged PR [#2](https://github.com/dscjisu/Flutter-Forward-Event/pull/2) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
+10. 🗣 Commented on [#3738](https://github.com/layer5io/layer5/issues/3738) in [layer5io/layer5](https://github.com/layer5io/layer5)
 <!--END_SECTION:activity-->
 
 <br>
