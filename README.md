@@ -46,16 +46,16 @@ Thank you for taking the time to learn more about me. I am excited to see what t
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/ChandanP007/eduBro/issues/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-2. 💪 Opened PR [#6](https://github.com/ChandanP007/eduBro/pull/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-3. 💪 Opened PR [#5](https://github.com/ChandanP007/eduBro/pull/5) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-4. 💪 Opened PR [#4](https://github.com/ChandanP007/eduBro/pull/4) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-5. 💪 Opened PR [#3](https://github.com/ChandanP007/eduBro/pull/3) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-6. 💪 Opened PR [#2](https://github.com/ChandanP007/eduBro/pull/2) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-7. ❌ Closed PR [#1](https://github.com/ChandanP007/eduBro/pull/1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-8. 🎉 Merged PR [#5](https://github.com/dscjisu/Flutter-Forward-Event/pull/5) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
-9. 🎉 Merged PR [#4](https://github.com/dscjisu/Flutter-Forward-Event/pull/4) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
-10. 🎉 Merged PR [#3](https://github.com/dscjisu/Flutter-Forward-Event/pull/3) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
+1. 💪 Opened PR [#7](https://github.com/ChandanP007/eduBro/pull/7) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+2. 🗣 Commented on [#6](https://github.com/ChandanP007/eduBro/issues/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+3. 💪 Opened PR [#6](https://github.com/ChandanP007/eduBro/pull/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+4. 💪 Opened PR [#5](https://github.com/ChandanP007/eduBro/pull/5) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+5. 💪 Opened PR [#4](https://github.com/ChandanP007/eduBro/pull/4) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+6. 💪 Opened PR [#3](https://github.com/ChandanP007/eduBro/pull/3) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+7. 💪 Opened PR [#2](https://github.com/ChandanP007/eduBro/pull/2) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+8. ❌ Closed PR [#1](https://github.com/ChandanP007/eduBro/pull/1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+9. 🎉 Merged PR [#5](https://github.com/dscjisu/Flutter-Forward-Event/pull/5) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
+10. 🎉 Merged PR [#4](https://github.com/dscjisu/Flutter-Forward-Event/pull/4) in [dscjisu/Flutter-Forward-Event](https://github.com/dscjisu/Flutter-Forward-Event)
 <!--END_SECTION:activity-->
 
 <br>
