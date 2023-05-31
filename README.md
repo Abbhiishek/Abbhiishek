@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 💪 Opened PR [#8](https://github.com/ChandanP007/eduBro/pull/8) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-3. 💪 Opened PR [#7](https://github.com/ChandanP007/eduBro/pull/7) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-4. 🗣 Commented on [#6](https://github.com/ChandanP007/eduBro/issues/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-5. 💪 Opened PR [#6](https://github.com/ChandanP007/eduBro/pull/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-6. 💪 Opened PR [#5](https://github.com/ChandanP007/eduBro/pull/5) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-7. 💪 Opened PR [#4](https://github.com/ChandanP007/eduBro/pull/4) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-8. 💪 Opened PR [#3](https://github.com/ChandanP007/eduBro/pull/3) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-9. 💪 Opened PR [#2](https://github.com/ChandanP007/eduBro/pull/2) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-10. ❌ Closed PR [#1](https://github.com/ChandanP007/eduBro/pull/1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+1. ❗ Opened issue [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 🚀 Published release [The spring Major Update](https://github.com/The spring Major Update) in [Abbhiishek/eduBro](https://github.com/Abbhiishek/eduBro)
+3. 💪 Opened PR [#8](https://github.com/ChandanP007/eduBro/pull/8) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+4. 🚀 Published release [v1.0.1](https://github.com/v1.0.1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+5. 💪 Opened PR [#7](https://github.com/ChandanP007/eduBro/pull/7) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+6. 🗣 Commented on [#6](https://github.com/ChandanP007/eduBro/issues/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+7. 💪 Opened PR [#6](https://github.com/ChandanP007/eduBro/pull/6) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+8. 💪 Opened PR [#5](https://github.com/ChandanP007/eduBro/pull/5) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+9. 💪 Opened PR [#4](https://github.com/ChandanP007/eduBro/pull/4) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+10. 💪 Opened PR [#3](https://github.com/ChandanP007/eduBro/pull/3) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
 <!--END_SECTION:activity-->
 
 <br>
