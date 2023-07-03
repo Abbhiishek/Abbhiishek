@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-2. 💪 Opened PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-3. 💪 Opened PR [#2](https://github.com/Abbhiishek/codecommunitymusic-client/pull/2) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-4. 🎉 Merged PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 💪 Opened PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 🗣 Commented on [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-7. ❗ Opened issue [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-8. 🚀 Published release [The spring Major Update](https://github.com/The spring Major Update) in [Abbhiishek/eduBro](https://github.com/Abbhiishek/eduBro)
-9. 💪 Opened PR [#8](https://github.com/ChandanP007/eduBro/pull/8) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
-10. 🚀 Published release [v1.0.1](https://github.com/v1.0.1) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
+1. 💪 Opened PR [#4](https://github.com/Abbhiishek/codecommunitymusic-client/pull/4) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 🎉 Merged PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+3. 💪 Opened PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+4. 💪 Opened PR [#2](https://github.com/Abbhiishek/codecommunitymusic-client/pull/2) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+5. 🎉 Merged PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 💪 Opened PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 🗣 Commented on [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+8. ❗ Opened issue [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+9. 🚀 Published release [The spring Major Update](https://github.com/The spring Major Update) in [Abbhiishek/eduBro](https://github.com/Abbhiishek/eduBro)
+10. 💪 Opened PR [#8](https://github.com/ChandanP007/eduBro/pull/8) in [ChandanP007/eduBro](https://github.com/ChandanP007/eduBro)
 <!--END_SECTION:activity-->
 
 <br>
