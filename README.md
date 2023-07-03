@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Abbhiishek/codecommunitymusic-client/pull/4) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-2. 🎉 Merged PR [#2](https://github.com/Abbhiishek/codecommunitymusic-client/pull/2) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-3. 💪 Opened PR [#4](https://github.com/Abbhiishek/codecommunitymusic-client/pull/4) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-4. 🎉 Merged PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 💪 Opened PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 💪 Opened PR [#2](https://github.com/Abbhiishek/codecommunitymusic-client/pull/2) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-7. 🎉 Merged PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-8. 💪 Opened PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. 🗣 Commented on [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-10. ❗ Opened issue [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 💪 Opened PR [#5](https://github.com/Abbhiishek/codecommunitymusic-client/pull/5) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 🎉 Merged PR [#4](https://github.com/Abbhiishek/codecommunitymusic-client/pull/4) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+3. 🎉 Merged PR [#2](https://github.com/Abbhiishek/codecommunitymusic-client/pull/2) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+4. 💪 Opened PR [#4](https://github.com/Abbhiishek/codecommunitymusic-client/pull/4) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+5. 🎉 Merged PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 💪 Opened PR [#3](https://github.com/Abbhiishek/codecommunitymusic-client/pull/3) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 💪 Opened PR [#2](https://github.com/Abbhiishek/codecommunitymusic-client/pull/2) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+8. 🎉 Merged PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 💪 Opened PR [#1](https://github.com/Abbhiishek/codecommunitymusic-client/pull/1) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. 🗣 Commented on [#7690](https://github.com/nextauthjs/next-auth/issues/7690) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
 
 <br>
