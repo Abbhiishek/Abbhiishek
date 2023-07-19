@@ -61,6 +61,7 @@ In my free time, I enjoy building websites and web applications using technologi
 ## :books: Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhance Your Web Apps: Best JS Libraries 🔧](https://dev.to/abbhiishek/enhance-your-web-apps-best-js-libraries-1a3f)
 - [Time Complexity](https://dev.to/abbhiishek/time-complexity-41a1)
 - [Firebase + Nextjs](https://dev.to/abbhiishek/firebase-nextjs-511a)
 - [Mastering MongoDB and Mongoose in Node.js](https://dev.to/abbhiishek/mastering-mongodb-and-mongoose-in-nodejs-1be5)
@@ -70,5 +71,4 @@ In my free time, I enjoy building websites and web applications using technologi
 - [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
 - [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
 - [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6)
-- [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
 <!-- BLOG-POST-LIST:END -->
