@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-2. 🎉 Merged PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-3. 💪 Opened PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-4. 🎉 Merged PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 💪 Opened PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 🎉 Merged PR [#10](https://github.com/Abbhiishek/codecommunitymusic-client/pull/10) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-7. 💪 Opened PR [#10](https://github.com/Abbhiishek/codecommunitymusic-client/pull/10) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-8. 🎉 Merged PR [#9](https://github.com/Abbhiishek/codecommunitymusic-client/pull/9) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. 💪 Opened PR [#9](https://github.com/Abbhiishek/codecommunitymusic-client/pull/9) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-10. 🎉 Merged PR [#8](https://github.com/Abbhiishek/codecommunitymusic-client/pull/8) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+1. 🎉 Merged PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 💪 Opened PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+3. 🎉 Merged PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+4. 💪 Opened PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+5. 🎉 Merged PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 💪 Opened PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 🎉 Merged PR [#10](https://github.com/Abbhiishek/codecommunitymusic-client/pull/10) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+8. 💪 Opened PR [#10](https://github.com/Abbhiishek/codecommunitymusic-client/pull/10) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 🎉 Merged PR [#9](https://github.com/Abbhiishek/codecommunitymusic-client/pull/9) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. 💪 Opened PR [#9](https://github.com/Abbhiishek/codecommunitymusic-client/pull/9) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
 <!--END_SECTION:activity-->
 
 <br>
