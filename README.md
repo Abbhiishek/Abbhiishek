@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1728914833) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-2. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1728914299) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-3. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1722416707) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-4. 🎉 Merged PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 💪 Opened PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 🎉 Merged PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-7. 💪 Opened PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-8. 🎉 Merged PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. 💪 Opened PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-10. 🎉 Merged PR [#10](https://github.com/Abbhiishek/codecommunitymusic-client/pull/10) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+1. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1728997198) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1728996092) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+3. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1728914833) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+4. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1728914299) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+5. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1722416707) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 🎉 Merged PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 💪 Opened PR [#13](https://github.com/Abbhiishek/codecommunitymusic-client/pull/13) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+8. 🎉 Merged PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 💪 Opened PR [#12](https://github.com/Abbhiishek/codecommunitymusic-client/pull/12) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. 🎉 Merged PR [#11](https://github.com/Abbhiishek/codecommunitymusic-client/pull/11) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
 <!--END_SECTION:activity-->
 
 <br>
