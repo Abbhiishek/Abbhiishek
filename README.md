@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735597379) in [meshery/meshery](https://github.com/meshery/meshery)
-2. ❗ Opened issue [#8932](https://github.com/meshery/meshery/issues/8932) in [meshery/meshery](https://github.com/meshery/meshery)
-3. ❗ Opened issue [#8931](https://github.com/meshery/meshery/issues/8931) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 🎉 Merged PR [#17](https://github.com/Abbhiishek/codecommunitymusic-client/pull/17) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 💪 Opened PR [#17](https://github.com/Abbhiishek/codecommunitymusic-client/pull/17) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 🔒 Closed issue [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-7. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1729951938) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-8. 🎉 Merged PR [#16](https://github.com/Abbhiishek/codecommunitymusic-client/pull/16) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1729524254) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-10. ❌ Closed PR [#15](https://github.com/Abbhiishek/codecommunitymusic-client/pull/15) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+1. 🗣 Commented on [#8931](https://github.com/meshery/meshery/issues/8931#issuecomment-1735681161) in [meshery/meshery](https://github.com/meshery/meshery)
+2. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735677983) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1735676952) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+4. ❗ Opened issue [#1433](https://github.com/meshery/meshery.io/issues/1433) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+5. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735597379) in [meshery/meshery](https://github.com/meshery/meshery)
+6. ❗ Opened issue [#8932](https://github.com/meshery/meshery/issues/8932) in [meshery/meshery](https://github.com/meshery/meshery)
+7. ❗ Opened issue [#8931](https://github.com/meshery/meshery/issues/8931) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 🎉 Merged PR [#17](https://github.com/Abbhiishek/codecommunitymusic-client/pull/17) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 💪 Opened PR [#17](https://github.com/Abbhiishek/codecommunitymusic-client/pull/17) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. 🔒 Closed issue [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
 <!--END_SECTION:activity-->
 
 <br>
