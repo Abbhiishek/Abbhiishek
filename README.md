@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1434](https://github.com/meshery/meshery.io/pull/1434) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-2. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1737879228) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-3. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1737694934) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-4. ❗ Opened issue [#18](https://github.com/Abbhiishek/codecommunitymusic-client/issues/18) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 🗣 Commented on [#8931](https://github.com/meshery/meshery/issues/8931#issuecomment-1735681161) in [meshery/meshery](https://github.com/meshery/meshery)
-6. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735677983) in [meshery/meshery](https://github.com/meshery/meshery)
-7. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1735676952) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-8. ❗ Opened issue [#1433](https://github.com/meshery/meshery.io/issues/1433) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-9. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735597379) in [meshery/meshery](https://github.com/meshery/meshery)
-10. ❗ Opened issue [#8932](https://github.com/meshery/meshery/issues/8932) in [meshery/meshery](https://github.com/meshery/meshery)
+1. ❗ Opened issue [#20](https://github.com/Abbhiishek/codecommunitymusic-client/issues/20) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 💪 Opened PR [#1434](https://github.com/meshery/meshery.io/pull/1434) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+3. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1737879228) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+4. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1737694934) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+5. ❗ Opened issue [#18](https://github.com/Abbhiishek/codecommunitymusic-client/issues/18) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 🗣 Commented on [#8931](https://github.com/meshery/meshery/issues/8931#issuecomment-1735681161) in [meshery/meshery](https://github.com/meshery/meshery)
+7. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735677983) in [meshery/meshery](https://github.com/meshery/meshery)
+8. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1735676952) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+9. ❗ Opened issue [#1433](https://github.com/meshery/meshery.io/issues/1433) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+10. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735597379) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
 <br>
