@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1434](https://github.com/meshery/meshery.io/pull/1434#issuecomment-1741697573) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-2. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1741694247) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-3. 🔓 Reopened issue [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-4. 🗣 Commented on [#16](https://github.com/Abbhiishek/codecommunitymusic-client/pull/16#issuecomment-1741694162) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 🗣 Commented on [#19](https://github.com/Abbhiishek/codecommunitymusic-client/issues/19#issuecomment-1741693023) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 🗣 Commented on [#23](https://github.com/Abbhiishek/codecommunitymusic-client/issues/23#issuecomment-1741692907) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-7. 🗣 Commented on [#23](https://github.com/Abbhiishek/codecommunitymusic-client/issues/23#issuecomment-1741692823) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-8. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741241487) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741238850) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-10. 🗣 Commented on [#19](https://github.com/Abbhiishek/codecommunitymusic-client/issues/19#issuecomment-1740316376) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+1. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1741765437) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 🗣 Commented on [#1434](https://github.com/meshery/meshery.io/pull/1434#issuecomment-1741697573) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
+3. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1741694247) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+4. 🔓 Reopened issue [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+5. 🗣 Commented on [#16](https://github.com/Abbhiishek/codecommunitymusic-client/pull/16#issuecomment-1741694162) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 🗣 Commented on [#19](https://github.com/Abbhiishek/codecommunitymusic-client/issues/19#issuecomment-1741693023) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 🗣 Commented on [#23](https://github.com/Abbhiishek/codecommunitymusic-client/issues/23#issuecomment-1741692907) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+8. 🗣 Commented on [#23](https://github.com/Abbhiishek/codecommunitymusic-client/issues/23#issuecomment-1741692823) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741241487) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741238850) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
 <!--END_SECTION:activity-->
 
 <br>
