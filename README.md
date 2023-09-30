@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741241487) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-2. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741238850) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-3. 🗣 Commented on [#19](https://github.com/Abbhiishek/codecommunitymusic-client/issues/19#issuecomment-1740316376) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-4. ❗ Opened issue [#20](https://github.com/Abbhiishek/codecommunitymusic-client/issues/20) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-5. 💪 Opened PR [#1434](https://github.com/meshery/meshery.io/pull/1434) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-6. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1737879228) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-7. 🗣 Commented on [#1433](https://github.com/meshery/meshery.io/issues/1433#issuecomment-1737694934) in [meshery/meshery.io](https://github.com/meshery/meshery.io)
-8. ❗ Opened issue [#18](https://github.com/Abbhiishek/codecommunitymusic-client/issues/18) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. 🗣 Commented on [#8931](https://github.com/meshery/meshery/issues/8931#issuecomment-1735681161) in [meshery/meshery](https://github.com/meshery/meshery)
-10. 🗣 Commented on [#8932](https://github.com/meshery/meshery/issues/8932#issuecomment-1735677983) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 🗣 Commented on [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14#issuecomment-1741694247) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+2. 🔓 Reopened issue [#14](https://github.com/Abbhiishek/codecommunitymusic-client/issues/14) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+3. 🗣 Commented on [#16](https://github.com/Abbhiishek/codecommunitymusic-client/pull/16#issuecomment-1741694162) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+4. 🗣 Commented on [#19](https://github.com/Abbhiishek/codecommunitymusic-client/issues/19#issuecomment-1741693023) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+5. 🗣 Commented on [#23](https://github.com/Abbhiishek/codecommunitymusic-client/issues/23#issuecomment-1741692907) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+6. 🗣 Commented on [#23](https://github.com/Abbhiishek/codecommunitymusic-client/issues/23#issuecomment-1741692823) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741241487) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+8. 🗣 Commented on [#22](https://github.com/Abbhiishek/codecommunitymusic-client/pull/22#issuecomment-1741238850) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 🗣 Commented on [#19](https://github.com/Abbhiishek/codecommunitymusic-client/issues/19#issuecomment-1740316376) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. ❗ Opened issue [#20](https://github.com/Abbhiishek/codecommunitymusic-client/issues/20) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
 <!--END_SECTION:activity-->
 
 <br>
