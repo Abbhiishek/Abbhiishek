@@ -71,4 +71,6 @@ In my free time, I enjoy building websites and web applications using technologi
 - [GraphQL](https://dev.to/abbhiishek/graphql-2hc2)
 - [ChatGPT: The Ultimate Tool for Natural Language Processing and Text Generation](https://dev.to/abbhiishek/chatgpt-the-ultimate-tool-for-natural-language-processing-and-text-generation-40ag)
 - [How to remove element from list Python](https://dev.to/abbhiishek/how-to-remove-element-from-list-python-22d6)
+- [Python is an object-oriented programming language](https://dev.to/abbhiishek/python-an-object-oriented-programming-language-2ob8)
+- [Why and How Git ?](https://dev.to/abbhiishek/why-and-how-git--25cl)
 <!-- BLOG-POST-LIST:END -->
