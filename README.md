@@ -16,7 +16,7 @@ I am currently studying computer science at JIS University, where I am learning 
 In my free time, I enjoy building websites and web applications using technologies like React , Nextjs , TailwindCSS , Django ... I am always looking for new challenges and opportunities to learn and grow as a developer.
 
 
-- 🔭 I’m currently working on **Code For Community**
+- 🔭 I’m currently working on **Dev Resume**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
