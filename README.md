@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/keyshade-xyz/keyshade/issues/1#issuecomment-1869243224) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-2. 🗣 Commented on [#4](https://github.com/keyshade-xyz/keyshade/issues/4#issuecomment-1869242628) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-3. 🎉 Merged PR [#1](https://github.com/Abbhiishek/devresume/pull/1) in [Abbhiishek/devresume](https://github.com/Abbhiishek/devresume)
-4. 💪 Opened PR [#1](https://github.com/Abbhiishek/devresume/pull/1) in [Abbhiishek/devresume](https://github.com/Abbhiishek/devresume)
-5. 🔒 Closed issue [#32](https://github.com/Abbhiishek/codecommunitymusic-client/issues/32) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-6. 🎉 Merged PR [#34](https://github.com/Abbhiishek/codecommunitymusic-client/pull/34) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-7. 🗣 Commented on [#34](https://github.com/Abbhiishek/codecommunitymusic-client/pull/34#issuecomment-1750844758) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-8. 🗣 Commented on [#32](https://github.com/Abbhiishek/codecommunitymusic-client/issues/32#issuecomment-1750821990) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-9. ❗ Opened issue [#32](https://github.com/Abbhiishek/codecommunitymusic-client/issues/32) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
-10. 🗣 Commented on [#20](https://github.com/Abbhiishek/codecommunitymusic-client/issues/20#issuecomment-1747980099) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+1. 🗣 Commented on [#4](https://github.com/keyshade-xyz/keyshade/issues/4#issuecomment-1869248756) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+2. 🗣 Commented on [#1](https://github.com/keyshade-xyz/keyshade/issues/1#issuecomment-1869243224) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+3. 🗣 Commented on [#4](https://github.com/keyshade-xyz/keyshade/issues/4#issuecomment-1869242628) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+4. 🎉 Merged PR [#1](https://github.com/Abbhiishek/devresume/pull/1) in [Abbhiishek/devresume](https://github.com/Abbhiishek/devresume)
+5. 💪 Opened PR [#1](https://github.com/Abbhiishek/devresume/pull/1) in [Abbhiishek/devresume](https://github.com/Abbhiishek/devresume)
+6. 🔒 Closed issue [#32](https://github.com/Abbhiishek/codecommunitymusic-client/issues/32) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+7. 🎉 Merged PR [#34](https://github.com/Abbhiishek/codecommunitymusic-client/pull/34) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+8. 🗣 Commented on [#34](https://github.com/Abbhiishek/codecommunitymusic-client/pull/34#issuecomment-1750844758) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+9. 🗣 Commented on [#32](https://github.com/Abbhiishek/codecommunitymusic-client/issues/32#issuecomment-1750821990) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
+10. ❗ Opened issue [#32](https://github.com/Abbhiishek/codecommunitymusic-client/issues/32) in [Abbhiishek/codecommunitymusic-client](https://github.com/Abbhiishek/codecommunitymusic-client)
 <!--END_SECTION:activity-->
 
 <br>
