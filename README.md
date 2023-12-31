@@ -43,16 +43,16 @@ In my free time, I enjoy building websites and web applications using technologi
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/keyshade-xyz/keyshade/issues/3#issuecomment-1872661533) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-2. 🗣 Commented on [#33](https://github.com/keyshade-xyz/keyshade/issues/33#issuecomment-1872049329) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-3. 🗣 Commented on [#36](https://github.com/keyshade-xyz/keyshade/issues/36#issuecomment-1871739347) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-4. 🗣 Commented on [#3](https://github.com/keyshade-xyz/keyshade/issues/3#issuecomment-1871733414) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-5. 🗣 Commented on [#33](https://github.com/keyshade-xyz/keyshade/issues/33#issuecomment-1871732617) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-6. 🗣 Commented on [#35](https://github.com/keyshade-xyz/keyshade/issues/35#issuecomment-1871286966) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-7. 🗣 Commented on [#33](https://github.com/keyshade-xyz/keyshade/issues/33#issuecomment-1871286382) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-8. 🗣 Commented on [#32](https://github.com/keyshade-xyz/keyshade/pull/32#issuecomment-1871285251) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-9. 🗣 Commented on [#1](https://github.com/keyshade-xyz/keyshade/issues/1#issuecomment-1871108527) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
-10. 💪 Opened PR [#32](https://github.com/keyshade-xyz/keyshade/pull/32) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+1. 🗣 Commented on [#3](https://github.com/keyshade-xyz/keyshade/issues/3#issuecomment-1872664413) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+2. 🗣 Commented on [#3](https://github.com/keyshade-xyz/keyshade/issues/3#issuecomment-1872661533) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+3. 🗣 Commented on [#33](https://github.com/keyshade-xyz/keyshade/issues/33#issuecomment-1872049329) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+4. 🗣 Commented on [#36](https://github.com/keyshade-xyz/keyshade/issues/36#issuecomment-1871739347) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+5. 🗣 Commented on [#3](https://github.com/keyshade-xyz/keyshade/issues/3#issuecomment-1871733414) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+6. 🗣 Commented on [#33](https://github.com/keyshade-xyz/keyshade/issues/33#issuecomment-1871732617) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+7. 🗣 Commented on [#35](https://github.com/keyshade-xyz/keyshade/issues/35#issuecomment-1871286966) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+8. 🗣 Commented on [#33](https://github.com/keyshade-xyz/keyshade/issues/33#issuecomment-1871286382) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+9. 🗣 Commented on [#32](https://github.com/keyshade-xyz/keyshade/pull/32#issuecomment-1871285251) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
+10. 🗣 Commented on [#1](https://github.com/keyshade-xyz/keyshade/issues/1#issuecomment-1871108527) in [keyshade-xyz/keyshade](https://github.com/keyshade-xyz/keyshade)
 <!--END_SECTION:activity-->
 
 <br>
