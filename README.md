@@ -90,6 +90,39 @@ In my free time, I enjoy building websites and web applications using technologi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abbhiishek&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbhiishek&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=abhishekkushwaha1&theme=radical" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Abbhiishek/Abbhiishek/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Abbhiishek/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31hd7adxflzrdonu7taqikcfwaru">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hd7adxflzrdonu7taqikcfwaru&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
