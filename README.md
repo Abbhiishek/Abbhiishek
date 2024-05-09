@@ -1,16 +1,9 @@
-<!-- <img src="./profileheader.png"> -->
+<p align=”center”>
 
-![Abhishek Kushwaha](https://wiidgets.vercel.app/api/banner?title=Abhishek%20Kushwaha&bio=Code%20|%20Community%20|%20Music&twitter=abbhishekstwt)
+<img width=”200" height=”200" src=”https://github.com/Abbhiishek/Abbhiishek/blob/main/banner.png?raw=true" alt=”my banner”>
 
-<!-- <h1 align="center"> <img src="https://c.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif" width="50"> I'm Abhishek Kushwaha <img src="https://cdn.discordapp.com/emojis/852778687958482944.gif?v=1" width="50"></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=380&height=45&lines=UG+at+JIS+UNIVERSITY;GDSC+Lead+22;Discord+Bot+Developer;Full+Stack+Developer;Open-Source+Enthusiast;Nice+To+Meet+You+...;&center=true">
-  </p>
+</p>
 
-
-
-
- -->
 Hi, my name is Abhishek Kushwaha and I am a student and web developer.
 I am currently studying computer science at JIS University, where I am learning about the latest technologies and techniques in the field of web development.
 In my free time, I enjoy building websites and web applications using technologies like React , Nextjs , TailwindCSS , Django ... I am always looking for new challenges and opportunities to learn and grow as a developer.
