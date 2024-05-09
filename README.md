@@ -1,12 +1,6 @@
 <p align=”center”>
-
-<img width=”200" height=”200" src=”https://github.com/Abbhiishek/Abbhiishek/blob/main/banner.png?raw=true" alt=”my banner”>
-
+  <img width=”200" height=”200" src="https://raw.githubusercontent.com/Abbhiishek/Abbhiishek/main/banner.png" alt=”my banner”/>
 </p>
-
-Hi, my name is Abhishek Kushwaha and I am a student and web developer.
-I am currently studying computer science at JIS University, where I am learning about the latest technologies and techniques in the field of web development.
-In my free time, I enjoy building websites and web applications using technologies like React , Nextjs , TailwindCSS , Django ... I am always looking for new challenges and opportunities to learn and grow as a developer.
 
 
 - 🔭 I’m currently working on **Dev Resume**
