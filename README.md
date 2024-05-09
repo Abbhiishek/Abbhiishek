@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Abbhiishek/campus-connect/issues/3#issuecomment-2101974513) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-2. 🗣 Commented on [#3](https://github.com/Abbhiishek/campus-connect/issues/3#issuecomment-2101908824) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-3. 🗣 Commented on [#2](https://github.com/Abbhiishek/campus-connect/issues/2#issuecomment-2101904546) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-4. 🗣 Commented on [#2](https://github.com/Abbhiishek/campus-connect/issues/2#issuecomment-2101904144) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-5. 🗣 Commented on [#2](https://github.com/Abbhiishek/campus-connect/issues/2#issuecomment-2101903985) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-6. 🎉 Merged PR [#7](https://github.com/Abbhiishek/campus-connect/pull/7) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-7. 💪 Opened PR [#7](https://github.com/Abbhiishek/campus-connect/pull/7) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-8. 🗣 Commented on [#4](https://github.com/Abbhiishek/campus-connect/issues/4#issuecomment-2101885357) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-9. 🎉 Merged PR [#5](https://github.com/Abbhiishek/campus-connect/pull/5) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-10. 💪 Opened PR [#5](https://github.com/Abbhiishek/campus-connect/pull/5) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+1. 🎉 Merged PR [#8](https://github.com/Abbhiishek/campus-connect/pull/8) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+2. 💪 Opened PR [#8](https://github.com/Abbhiishek/campus-connect/pull/8) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+3. 🗣 Commented on [#3](https://github.com/Abbhiishek/campus-connect/issues/3#issuecomment-2101974513) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+4. 🗣 Commented on [#3](https://github.com/Abbhiishek/campus-connect/issues/3#issuecomment-2101908824) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+5. 🗣 Commented on [#2](https://github.com/Abbhiishek/campus-connect/issues/2#issuecomment-2101904546) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+6. 🗣 Commented on [#2](https://github.com/Abbhiishek/campus-connect/issues/2#issuecomment-2101904144) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+7. 🗣 Commented on [#2](https://github.com/Abbhiishek/campus-connect/issues/2#issuecomment-2101903985) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+8. 🎉 Merged PR [#7](https://github.com/Abbhiishek/campus-connect/pull/7) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+9. 💪 Opened PR [#7](https://github.com/Abbhiishek/campus-connect/pull/7) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+10. 🗣 Commented on [#4](https://github.com/Abbhiishek/campus-connect/issues/4#issuecomment-2101885357) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
 <!--END_SECTION:activity-->
 
 <br>
