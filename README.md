@@ -86,10 +86,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=10&username=abhishekkushwaha1&theme=radical" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Abbhiishek/Abbhiishek/output/snake.svg" alt="Snake animation" />
@@ -98,14 +94,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abbhiishek/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hd7adxflzrdonu7taqikcfwaru">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hd7adxflzrdonu7taqikcfwaru&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
