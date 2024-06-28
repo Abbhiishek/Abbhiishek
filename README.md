@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-2. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-3. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-4. 🎉 Merged PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-5. 💪 Opened PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-6. 💪 Opened PR [#9](https://github.com/Abbhiishek/campus-connect/pull/9) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-7. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326926) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-8. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326392) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-9. 🗣 Commented on [#833](https://github.com/openstatusHQ/openstatus/issues/833#issuecomment-2143686628) in [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)
-10. 🗣 Commented on [#798](https://github.com/openstatusHQ/openstatus/issues/798#issuecomment-2126960885) in [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)
+1. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+2. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+3. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+4. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+5. 🎉 Merged PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+6. 💪 Opened PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+7. 💪 Opened PR [#9](https://github.com/Abbhiishek/campus-connect/pull/9) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+8. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326926) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+9. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326392) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+10. 🗣 Commented on [#833](https://github.com/openstatusHQ/openstatus/issues/833#issuecomment-2143686628) in [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)
 <!--END_SECTION:activity-->
 
 <br>
