@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Alienimnida/zenscape/pull/1) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
-2. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-3. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-4. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-5. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-6. 🎉 Merged PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-7. 💪 Opened PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-8. 💪 Opened PR [#9](https://github.com/Abbhiishek/campus-connect/pull/9) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-9. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326926) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-10. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326392) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+1. 💪 Opened PR [#2](https://github.com/Alienimnida/zenscape/pull/2) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
+2. 💪 Opened PR [#1](https://github.com/Alienimnida/zenscape/pull/1) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
+3. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+4. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+5. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+6. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+7. 🎉 Merged PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+8. 💪 Opened PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+9. 💪 Opened PR [#9](https://github.com/Abbhiishek/campus-connect/pull/9) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+10. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326926) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
 <!--END_SECTION:activity-->
 
 <br>
