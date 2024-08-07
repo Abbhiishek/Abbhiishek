@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Alienimnida/zenscape/pull/2) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
-2. 💪 Opened PR [#1](https://github.com/Alienimnida/zenscape/pull/1) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
-3. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-4. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-5. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-6. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-7. 🎉 Merged PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-8. 💪 Opened PR [#1](https://github.com/Abbhiishek/raisex/pull/1) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-9. 💪 Opened PR [#9](https://github.com/Abbhiishek/campus-connect/pull/9) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-10. 🗣 Commented on [#6](https://github.com/Abbhiishek/campus-connect/issues/6#issuecomment-2176326926) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+1. 💪 Opened PR [#442](https://github.com/keploy/docs/pull/442) in [keploy/docs](https://github.com/keploy/docs)
+2. ❌ Closed PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
+3. 🗣 Commented on [#2187](https://github.com/keploy/keploy/issues/2187#issuecomment-2272572259) in [keploy/keploy](https://github.com/keploy/keploy)
+4. 💪 Opened PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
+5. 💪 Opened PR [#2](https://github.com/Alienimnida/zenscape/pull/2) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
+6. 💪 Opened PR [#1](https://github.com/Alienimnida/zenscape/pull/1) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
+7. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+8. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+9. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+10. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
 <!--END_SECTION:activity-->
 
 <br>
