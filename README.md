@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#442](https://github.com/keploy/docs/pull/442) in [keploy/docs](https://github.com/keploy/docs)
-2. ❌ Closed PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
-3. 🗣 Commented on [#2187](https://github.com/keploy/keploy/issues/2187#issuecomment-2272572259) in [keploy/keploy](https://github.com/keploy/keploy)
-4. 💪 Opened PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
-5. 💪 Opened PR [#2](https://github.com/Alienimnida/zenscape/pull/2) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
-6. 💪 Opened PR [#1](https://github.com/Alienimnida/zenscape/pull/1) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
-7. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-8. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-9. 🎉 Merged PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
-10. 💪 Opened PR [#2](https://github.com/Abbhiishek/raisex/pull/2) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+1. 💪 Opened PR [#443](https://github.com/keploy/docs/pull/443) in [keploy/docs](https://github.com/keploy/docs)
+2. ❗ Opened issue [#2191](https://github.com/keploy/keploy/issues/2191) in [keploy/keploy](https://github.com/keploy/keploy)
+3. 💪 Opened PR [#442](https://github.com/keploy/docs/pull/442) in [keploy/docs](https://github.com/keploy/docs)
+4. ❌ Closed PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
+5. 🗣 Commented on [#2187](https://github.com/keploy/keploy/issues/2187#issuecomment-2272572259) in [keploy/keploy](https://github.com/keploy/keploy)
+6. 💪 Opened PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
+7. 💪 Opened PR [#2](https://github.com/Alienimnida/zenscape/pull/2) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
+8. 💪 Opened PR [#1](https://github.com/Alienimnida/zenscape/pull/1) in [Alienimnida/zenscape](https://github.com/Alienimnida/zenscape)
+9. 🎉 Merged PR [#4](https://github.com/Abbhiishek/raisex/pull/4) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
+10. 🎉 Merged PR [#3](https://github.com/Abbhiishek/raisex/pull/3) in [Abbhiishek/raisex](https://github.com/Abbhiishek/raisex)
 <!--END_SECTION:activity-->
 
 <br>
