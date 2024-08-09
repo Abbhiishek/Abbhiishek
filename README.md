@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2200](https://github.com/keploy/keploy/pull/2200#issuecomment-2276179044) in [keploy/keploy](https://github.com/keploy/keploy)
-2. 🗣 Commented on [#2200](https://github.com/keploy/keploy/pull/2200#issuecomment-2276178410) in [keploy/keploy](https://github.com/keploy/keploy)
-3. 💪 Opened PR [#2200](https://github.com/keploy/keploy/pull/2200) in [keploy/keploy](https://github.com/keploy/keploy)
-4. ❗ Opened issue [#2199](https://github.com/keploy/keploy/issues/2199) in [keploy/keploy](https://github.com/keploy/keploy)
-5. 💪 Opened PR [#443](https://github.com/keploy/docs/pull/443) in [keploy/docs](https://github.com/keploy/docs)
-6. ❗ Opened issue [#2191](https://github.com/keploy/keploy/issues/2191) in [keploy/keploy](https://github.com/keploy/keploy)
-7. 💪 Opened PR [#442](https://github.com/keploy/docs/pull/442) in [keploy/docs](https://github.com/keploy/docs)
-8. ❌ Closed PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
-9. 🗣 Commented on [#2187](https://github.com/keploy/keploy/issues/2187#issuecomment-2272572259) in [keploy/keploy](https://github.com/keploy/keploy)
-10. 💪 Opened PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
+1. 💪 Opened PR [#444](https://github.com/keploy/docs/pull/444) in [keploy/docs](https://github.com/keploy/docs)
+2. 🗣 Commented on [#2200](https://github.com/keploy/keploy/pull/2200#issuecomment-2276179044) in [keploy/keploy](https://github.com/keploy/keploy)
+3. 🗣 Commented on [#2200](https://github.com/keploy/keploy/pull/2200#issuecomment-2276178410) in [keploy/keploy](https://github.com/keploy/keploy)
+4. 💪 Opened PR [#2200](https://github.com/keploy/keploy/pull/2200) in [keploy/keploy](https://github.com/keploy/keploy)
+5. ❗ Opened issue [#2199](https://github.com/keploy/keploy/issues/2199) in [keploy/keploy](https://github.com/keploy/keploy)
+6. 💪 Opened PR [#443](https://github.com/keploy/docs/pull/443) in [keploy/docs](https://github.com/keploy/docs)
+7. ❗ Opened issue [#2191](https://github.com/keploy/keploy/issues/2191) in [keploy/keploy](https://github.com/keploy/keploy)
+8. 💪 Opened PR [#442](https://github.com/keploy/docs/pull/442) in [keploy/docs](https://github.com/keploy/docs)
+9. ❌ Closed PR [#441](https://github.com/keploy/docs/pull/441) in [keploy/docs](https://github.com/keploy/docs)
+10. 🗣 Commented on [#2187](https://github.com/keploy/keploy/issues/2187#issuecomment-2272572259) in [keploy/keploy](https://github.com/keploy/keploy)
 <!--END_SECTION:activity-->
 
 <br>
