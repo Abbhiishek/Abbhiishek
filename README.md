@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-2. 💪 Opened PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-3. 🎉 Merged PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-4. 💪 Opened PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-5. 🎉 Merged PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-6. 💪 Opened PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-7. 🎉 Merged PR [#17](https://github.com/Abbhiishek/hirebetter/pull/17) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-8. 💪 Opened PR [#17](https://github.com/Abbhiishek/hirebetter/pull/17) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-9. 🗣 Commented on [#2200](https://github.com/keploy/keploy/pull/2200#issuecomment-2301812314) in [keploy/keploy](https://github.com/keploy/keploy)
-10. ❌ Closed PR [#2200](https://github.com/keploy/keploy/pull/2200) in [keploy/keploy](https://github.com/keploy/keploy)
+1. 💪 Opened PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+2. 🎉 Merged PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+3. 💪 Opened PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+4. 🎉 Merged PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+5. 💪 Opened PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+6. 🎉 Merged PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+7. 💪 Opened PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+8. 🎉 Merged PR [#17](https://github.com/Abbhiishek/hirebetter/pull/17) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+9. 💪 Opened PR [#17](https://github.com/Abbhiishek/hirebetter/pull/17) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+10. 🗣 Commented on [#2200](https://github.com/keploy/keploy/pull/2200#issuecomment-2301812314) in [keploy/keploy](https://github.com/keploy/keploy)
 <!--END_SECTION:activity-->
 
 <br>
