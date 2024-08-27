@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-2. 💪 Opened PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-3. 🎉 Merged PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-4. 💪 Opened PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-5. 🎉 Merged PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-6. 💪 Opened PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-7. 🎉 Merged PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-8. 💪 Opened PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-9. 🎉 Merged PR [#17](https://github.com/Abbhiishek/hirebetter/pull/17) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-10. 💪 Opened PR [#17](https://github.com/Abbhiishek/hirebetter/pull/17) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+1. ❗ Opened issue [#2246](https://github.com/keploy/keploy/issues/2246) in [keploy/keploy](https://github.com/keploy/keploy)
+2. 💪 Opened PR [#451](https://github.com/keploy/docs/pull/451) in [keploy/docs](https://github.com/keploy/docs)
+3. ❌ Closed PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+4. 💪 Opened PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+5. 🎉 Merged PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+6. 💪 Opened PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+7. 🎉 Merged PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+8. 💪 Opened PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+9. 🎉 Merged PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+10. 💪 Opened PR [#18](https://github.com/Abbhiishek/hirebetter/pull/18) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
 <!--END_SECTION:activity-->
 
 <br>
