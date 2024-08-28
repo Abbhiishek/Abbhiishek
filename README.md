@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2248](https://github.com/keploy/keploy/issues/2248) in [keploy/keploy](https://github.com/keploy/keploy)
-2. 💪 Opened PR [#453](https://github.com/keploy/docs/pull/453) in [keploy/docs](https://github.com/keploy/docs)
-3. ❗ Opened issue [#2247](https://github.com/keploy/keploy/issues/2247) in [keploy/keploy](https://github.com/keploy/keploy)
-4. ❗ Opened issue [#2246](https://github.com/keploy/keploy/issues/2246) in [keploy/keploy](https://github.com/keploy/keploy)
-5. 💪 Opened PR [#451](https://github.com/keploy/docs/pull/451) in [keploy/docs](https://github.com/keploy/docs)
-6. ❌ Closed PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-7. 💪 Opened PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-8. 🎉 Merged PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-9. 💪 Opened PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
-10. 🎉 Merged PR [#19](https://github.com/Abbhiishek/hirebetter/pull/19) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+1. 💪 Opened PR [#62](https://github.com/keploy/samples-typescript/pull/62) in [keploy/samples-typescript](https://github.com/keploy/samples-typescript)
+2. 💪 Opened PR [#1](https://github.com/Abbhiishek/samples-typescript/pull/1) in [Abbhiishek/samples-typescript](https://github.com/Abbhiishek/samples-typescript)
+3. ❗ Opened issue [#2248](https://github.com/keploy/keploy/issues/2248) in [keploy/keploy](https://github.com/keploy/keploy)
+4. 💪 Opened PR [#453](https://github.com/keploy/docs/pull/453) in [keploy/docs](https://github.com/keploy/docs)
+5. ❗ Opened issue [#2247](https://github.com/keploy/keploy/issues/2247) in [keploy/keploy](https://github.com/keploy/keploy)
+6. ❗ Opened issue [#2246](https://github.com/keploy/keploy/issues/2246) in [keploy/keploy](https://github.com/keploy/keploy)
+7. 💪 Opened PR [#451](https://github.com/keploy/docs/pull/451) in [keploy/docs](https://github.com/keploy/docs)
+8. ❌ Closed PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+9. 💪 Opened PR [#21](https://github.com/Abbhiishek/hirebetter/pull/21) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
+10. 🎉 Merged PR [#20](https://github.com/Abbhiishek/hirebetter/pull/20) in [Abbhiishek/hirebetter](https://github.com/Abbhiishek/hirebetter)
 <!--END_SECTION:activity-->
 
 <br>
