@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/Abbhiishek/campus-connect/issues/12) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-2. ❗ Opened issue [#11](https://github.com/Abbhiishek/campus-connect/issues/11) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-3. 🗣 Commented on [#12](https://github.com/not-lain/loadimg/pull/12#issuecomment-2328241689) in [not-lain/loadimg](https://github.com/not-lain/loadimg)
-4. 💪 Opened PR [#12](https://github.com/not-lain/loadimg/pull/12) in [not-lain/loadimg](https://github.com/not-lain/loadimg)
-5. 🗣 Commented on [#11](https://github.com/not-lain/loadimg/issues/11#issuecomment-2323876215) in [not-lain/loadimg](https://github.com/not-lain/loadimg)
-6. 💪 Opened PR [#3](https://github.com/loft-sh/devpod-templates/pull/3) in [loft-sh/devpod-templates](https://github.com/loft-sh/devpod-templates)
-7. 💪 Opened PR [#10](https://github.com/Abbhiishek/campus-connect/pull/10) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-8. 💪 Opened PR [#62](https://github.com/keploy/samples-typescript/pull/62) in [keploy/samples-typescript](https://github.com/keploy/samples-typescript)
-9. 💪 Opened PR [#1](https://github.com/Abbhiishek/samples-typescript/pull/1) in [Abbhiishek/samples-typescript](https://github.com/Abbhiishek/samples-typescript)
-10. ❗ Opened issue [#2248](https://github.com/keploy/keploy/issues/2248) in [keploy/keploy](https://github.com/keploy/keploy)
+1. 🗣 Commented on [#10](https://github.com/Abbhiishek/campus-connect/pull/10#issuecomment-2352005971) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+2. 🗣 Commented on [#13](https://github.com/Abbhiishek/campus-connect/issues/13#issuecomment-2352005761) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+3. 🗣 Commented on [#13](https://github.com/Abbhiishek/campus-connect/issues/13#issuecomment-2352005343) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+4. 🗣 Commented on [#13](https://github.com/Abbhiishek/campus-connect/issues/13#issuecomment-2352004050) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+5. 🗣 Commented on [#13](https://github.com/Abbhiishek/campus-connect/issues/13#issuecomment-2352001532) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+6. ❗ Opened issue [#13](https://github.com/Abbhiishek/campus-connect/issues/13) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+7. 🗣 Commented on [#12](https://github.com/Abbhiishek/campus-connect/issues/12#issuecomment-2351999833) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+8. 🗣 Commented on [#12](https://github.com/Abbhiishek/campus-connect/issues/12#issuecomment-2351999627) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+9. 🗣 Commented on [#12](https://github.com/Abbhiishek/campus-connect/issues/12#issuecomment-2351999406) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+10. ❗ Opened issue [#12](https://github.com/Abbhiishek/campus-connect/issues/12) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
 <!--END_SECTION:activity-->
 
 <br>
