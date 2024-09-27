@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Abbhiishek/campus-connect/issues/14#issuecomment-2373732552) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-2. ❗ Opened issue [#14](https://github.com/Abbhiishek/campus-connect/issues/14) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-3. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358194120) in [keploy/docs](https://github.com/keploy/docs)
-4. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358175138) in [keploy/docs](https://github.com/keploy/docs)
-5. 🔒 Closed issue [#13](https://github.com/Abbhiishek/campus-connect/issues/13) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-6. 🗣 Commented on [#8](https://github.com/Abbhiishek/keploy-bot-test/pull/8#issuecomment-2353346100) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
-7. 🗣 Commented on [#8](https://github.com/Abbhiishek/keploy-bot-test/pull/8#issuecomment-2353343846) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
-8. 💪 Opened PR [#8](https://github.com/Abbhiishek/keploy-bot-test/pull/8) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
-9. 🗣 Commented on [#7](https://github.com/Abbhiishek/keploy-bot-test/issues/7#issuecomment-2353333697) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
-10. 🗣 Commented on [#7](https://github.com/Abbhiishek/keploy-bot-test/issues/7#issuecomment-2353332527) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
+1. 🗣 Commented on [#15](https://github.com/Abbhiishek/campus-connect/issues/15#issuecomment-2378885558) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+2. ❗ Opened issue [#15](https://github.com/Abbhiishek/campus-connect/issues/15) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+3. 🗣 Commented on [#14](https://github.com/Abbhiishek/campus-connect/issues/14#issuecomment-2373732552) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+4. ❗ Opened issue [#14](https://github.com/Abbhiishek/campus-connect/issues/14) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+5. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358194120) in [keploy/docs](https://github.com/keploy/docs)
+6. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358175138) in [keploy/docs](https://github.com/keploy/docs)
+7. 🔒 Closed issue [#13](https://github.com/Abbhiishek/campus-connect/issues/13) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+8. 🗣 Commented on [#8](https://github.com/Abbhiishek/keploy-bot-test/pull/8#issuecomment-2353346100) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
+9. 🗣 Commented on [#8](https://github.com/Abbhiishek/keploy-bot-test/pull/8#issuecomment-2353343846) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
+10. 💪 Opened PR [#8](https://github.com/Abbhiishek/keploy-bot-test/pull/8) in [Abbhiishek/keploy-bot-test](https://github.com/Abbhiishek/keploy-bot-test)
 <!--END_SECTION:activity-->
 
 <br>
