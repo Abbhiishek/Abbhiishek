@@ -35,16 +35,16 @@
 <h1>:zap: Recent Activity</h1>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Abbhiishek/d/issues/2) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
-2. 🗣 Commented on [#1](https://github.com/Abbhiishek/d/issues/1#issuecomment-2378905336) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
-3. ❗ Opened issue [#1](https://github.com/Abbhiishek/d/issues/1) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
-4. 🗣 Commented on [#15](https://github.com/Abbhiishek/campus-connect/issues/15#issuecomment-2378885558) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-5. ❗ Opened issue [#15](https://github.com/Abbhiishek/campus-connect/issues/15) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-6. 🗣 Commented on [#14](https://github.com/Abbhiishek/campus-connect/issues/14#issuecomment-2373732552) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-7. ❗ Opened issue [#14](https://github.com/Abbhiishek/campus-connect/issues/14) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
-8. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358194120) in [keploy/docs](https://github.com/keploy/docs)
-9. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358175138) in [keploy/docs](https://github.com/keploy/docs)
-10. 🔒 Closed issue [#13](https://github.com/Abbhiishek/campus-connect/issues/13) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+1. ❗ Opened issue [#3](https://github.com/Abbhiishek/d/issues/3) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
+2. ❗ Opened issue [#2](https://github.com/Abbhiishek/d/issues/2) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
+3. 🗣 Commented on [#1](https://github.com/Abbhiishek/d/issues/1#issuecomment-2378905336) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
+4. ❗ Opened issue [#1](https://github.com/Abbhiishek/d/issues/1) in [Abbhiishek/d](https://github.com/Abbhiishek/d)
+5. 🗣 Commented on [#15](https://github.com/Abbhiishek/campus-connect/issues/15#issuecomment-2378885558) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+6. ❗ Opened issue [#15](https://github.com/Abbhiishek/campus-connect/issues/15) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+7. 🗣 Commented on [#14](https://github.com/Abbhiishek/campus-connect/issues/14#issuecomment-2373732552) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+8. ❗ Opened issue [#14](https://github.com/Abbhiishek/campus-connect/issues/14) in [Abbhiishek/campus-connect](https://github.com/Abbhiishek/campus-connect)
+9. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358194120) in [keploy/docs](https://github.com/keploy/docs)
+10. 🗣 Commented on [#453](https://github.com/keploy/docs/pull/453#issuecomment-2358175138) in [keploy/docs](https://github.com/keploy/docs)
 <!--END_SECTION:activity-->
 
 <br>
