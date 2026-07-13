@@ -1,6 +1,3 @@
-
-<sub>Abbhiishek / README.md</sub>
-
 # Hello there.
 
 A **GitHub Campus Expert** by community, and a full-stack + AI builder by curiosity.
